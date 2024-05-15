@@ -1,5 +1,10 @@
-<!-- This file is based on the header for the guitar shop program from the textbook-->
 <?php 
+
+/*
+  Header for the program. Forces secure connection. 
+
+  Programmed by Mitchell Seitz, 2024
+*/
 
 // make sure the page uses a secure connection - Forces secure connection on all pages, as header is included everywhere. 
 $https = filter_input(INPUT_SERVER, 'HTTPS'); 
@@ -17,7 +22,6 @@ if (!$https) {
 <!-- the head section -->
 <head>
     <title> Mitch Seitz Portfolio</title>
-    <!-- <link rel="stylesheet" type="text/css" href="main.css"> -->
 </head>
 
 <!-- Linking in the main CSS file to our program. -->

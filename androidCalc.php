@@ -1,10 +1,8 @@
 <!-- 
 
-androidCalc.php , the file for the calculator app school project
+androidCalc.php , the page for my calculator app project
 
 Programmed by Mitchell Seitz, March 14 2024. 
-
-This page shows the android app I made in school. 
 
 -->
 

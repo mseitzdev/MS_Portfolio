@@ -1,10 +1,8 @@
 <!-- 
 
-androidCalc.php , the file for the calculator app school project
+Bus Simulator app page, busSimulator.php
 
 Programmed by Mitchell Seitz, March 14 2024. 
-
-This page shows the android app I made in school. 
 
 -->
 
