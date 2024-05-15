@@ -131,12 +131,12 @@ Dropdown container (hidden by default).
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 
   <!-- This is the home button, which will show the home content. -->
-  <a href="index.php">Home</a>
+  <a href="/MS_portfolio/index.php">Home</a>
 
   <button class="dropdown-btn">Android Apps ▼</button>
   <div class="dropdown-container">
-      <a href="busSimulator.php" class="dropdown-element">Transit System Simulator</a> 
-      <a href=" androidCalc.php" class="dropdown-element">Scientific Calculator</a> 
+      <a href="/MS_portfolio/androidApps/busSimulator.php" class="dropdown-element">Transit System Simulator</a> 
+      <a href="/MS_portfolio/androidApps/androidCalc.php" class="dropdown-element">Scientific Calculator</a> 
   </div>
 
   <button class="dropdown-btn">Website Prototypes ▼</button>

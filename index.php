@@ -13,7 +13,6 @@ calls.
 
 <?php 
 
-
 //inclding program header, forces secure connection.
 include 'res/header.php'; 
 
