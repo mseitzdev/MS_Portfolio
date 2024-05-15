@@ -135,7 +135,7 @@ Dropdown container (hidden by default).
 
   <button class="dropdown-btn">Android Apps ▼</button>
   <div class="dropdown-container">
-      <a href="/androidApps/busSimulator.php" class="dropdown-element">Transit System Simulator</a> 
+      <a href="busSimulator.php" class="dropdown-element">Transit System Simulator</a> 
       <a href="androidCalc.php" class="dropdown-element">Scientific Calculator</a> 
   </div>
 
