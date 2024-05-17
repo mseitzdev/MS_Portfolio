@@ -25,12 +25,16 @@ created by Mitchell Seitz, using above material, in march 2024.
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #111;
   overflow-x: hidden;
   transition: 0.3s;
   padding-top: 60px;
   font-size: 25px;
+
+  /* 111 is the RGB color code for the background, 95% is the opacity. */
+  /*background-color: #111;*/ /* This only colors the background */
+  background: rgb(1, 1, 1, 0.9); /*Background color and opacity*/
 }
+
 
 /*General formatting for links and dropdown buttons*/
 .sidenav a, .dropdown-btn {
