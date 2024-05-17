@@ -31,15 +31,17 @@ created by Mitchell Seitz, using above material, in march 2024.
   font-size: 25px;
 
   /* 
-  111 is the RGB color code for the background, last value of rgb()
-  is the opacity.
-  Chose to do it this way because changing opaicty directly causes 
-  elements within to become transparent as well.
+  Opacity and background color, 
+  but opacity is inherited into the 
+  links and dropdowns. 
   */
-  /*See sidenav for other location of opacity and color*/
-  background: rgb(1, 1, 1, 0.9); /*Background color and opacity*/
-}
+  /*
+  background-color: #111;
+  opacity: 0.90;
+  */
 
+  background-color: rgba(1,1,1,0.9);
+}
 
 /*General formatting for links and dropdown buttons*/
 .sidenav a, .dropdown-btn {
@@ -49,6 +51,7 @@ created by Mitchell Seitz, using above material, in march 2024.
   display: block;
   transition: 0.3s;
   text-align: center;
+
 }
 
 /* Style the  dropdown button */
@@ -75,7 +78,6 @@ created by Mitchell Seitz, using above material, in march 2024.
   display: block;
   transition: 0.3s;
   border: none;
-  background-color: #111;
   padding: 8px 8px 8px 32px;
 }
 
@@ -84,15 +86,8 @@ Dropdown container (hidden by default).
 */
 .dropdown-container {
   display: none;
-
-  /*See sidenav CSS for other location of opacity and color*/
-  background: rgb(1, 1, 1, 0.9); /*Background color and opacity*/
-
   /*This fixes the position relative to the container, and centers the options*/
   position: relative;
-  /*left: 50%;
-  margin-left: -100px;*/
-  
 }
 
 /* Giving the dropdown elements different styling*/
@@ -102,7 +97,7 @@ Dropdown container (hidden by default).
 }
 
 /* close button formatting */
-.sidenav .closebtn {
+.closebtn {
   position: absolute;
   top: 0;
   right: 20px;
