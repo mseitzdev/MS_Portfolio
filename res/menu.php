@@ -97,7 +97,6 @@ created by Mitchell Seitz, using above material, in march 2024.
   color: goldenrod;
   float: left;
   background-color: black;
-  font-size:40px; 
   cursor:pointer;
 }
 
@@ -140,9 +139,7 @@ created by Mitchell Seitz, using above material, in march 2024.
 </div>
 
 <!-- This is the code for the menu symbol, you can add text  -->
-<span onclick="openNav()" class="menuClick"> 
-  &#9776;<small style="font-size:28px;">Menu</small> 
-</span>
+<span onclick="openNav()" class="menuClick"> &#9776; </span>
 
 <script>
 function openNav() {

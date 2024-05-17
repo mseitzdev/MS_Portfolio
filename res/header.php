@@ -39,20 +39,24 @@ echo $document_root;
 
 <!-- the header section -->
 <body>
-<header>
-    <img src="/MS_Portfolio/res/msportlogo.png" 
-         style="max-width: 90%; max-height: 80px; 
-                display: block; margin-left: auto; 
-                margin-right: auto; transform: translateX(-13px);">
-</header>
+<header style="display: flex; margin: 0px;">
 
-<!-- this is the menu button -->
-<div style="height: 45px; background-color: black;">
-
-    <h1 style="text-align: left; width: 100%; background-color: black; color: goldenrod; 
-               display: inline-block; float: left; margin-left: 7px"> 
+   <!-- menu button --> 
+    <h1 style="font-size: 60px; color: goldenrod; 
+               margin-top: auto; margin-bottom: auto;"> 
         <?php include $document_root . '/MS_Portfolio/res/menu.php'; ?> 
     </h1>
-    
-</div>
+        
+
+    <!-- website logo --> 
+    <img src="/MS_Portfolio/res/msportlogo.png" 
+         style="max-width: 70%; max-height: 80px; 
+                width: auto; height: auto;
+                margin-left: auto; margin-right: auto; 
+                object-fit: contain;
+                transform: translateX(-10%);">
+
+</header>
+
+
 
