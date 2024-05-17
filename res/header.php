@@ -44,36 +44,44 @@ echo $document_root;
         width: 100%;
         height: 100%;
     }
-
     .logo{
         /* Adjusting width, height, and position on screen */
         max-width: 70%; 
         width: auto; 
         height: 80px;
-        transform: translateX(-7.5%);
+        transform: translateX(-10%);
         /* Prevents image from squishing, auto adjust to screen */
         object-fit: contain;
-    }
 
+    }
     .logo:hover{
         transition: 0.3s;
-        filter: brightness(130%);
-        transform: translatex(-7.5%) scale(1.1);
+        filter: brightness(10) grayscale(100%);
+        transform: translatex(-10%) scale(1.05);
         cursor: pointer;
     }
 
     /* This is the formatting for our header, at the top of the page. */
     header{
-      /* background-color sets the color of the background around the text*/
-      background-color: black;
+      /* 
+      This sets the background color and opacity
+      without inheritance issues 
+      */
+      background-color: rgba(1,1,1,0.9);
+
       /* The padding-direction css allows for some padding to be inserted around elements*/
       padding-left: 1%;
       padding-right: 1%; 
       padding-bottom: 10px;
       padding-top: 10px;
-      /* This makes our header take up the whole width of the screen */
+
+      /* Setting dimensions */
       width: 100%;
       max-height: 80px;
+
+      /*Toggle for scrollability*/
+      position: fixed;
+
     }
 
     /*Linking in the main.css style file for non - header portions*/
@@ -86,7 +94,7 @@ echo $document_root;
 <header style="display: flex;">
 
    <!-- menu button --> 
-    <h1 style="font-size: 50px; margin-top: auto; margin-bottom: auto; "> 
+    <h1 style="font-size: 70px; margin-top: auto; margin-bottom: auto; "> 
         <?php include $document_root . '/MS_Portfolio/res/menu.php'; ?> 
     </h1>
         

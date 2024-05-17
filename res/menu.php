@@ -71,8 +71,9 @@ created by Mitchell Seitz, using above material, in march 2024.
 
 /* link and dropdown button hover behavior */
 .sidenav a:hover, .dropdown-btn:hover{
-  filter: brightness(130%);
-  transform: scale(1.1); /* This zooms in */
+  transform: scale(1.2); /* This zooms in */
+  filter: brightness(1.25) grayscale(100%);
+  cursor: pointer;
 }
 
 /* Dropdown container*/
@@ -101,13 +102,15 @@ created by Mitchell Seitz, using above material, in march 2024.
   color: goldenrod;
   float: left;
   cursor:pointer;
+  margin: 0px;
 }
 
 /*Menu hover behavior*/
 .menuClick:hover{
-  filter: brightness(130%);
   transition: 0.3s;
-  transform: scale(1.1); /* This zooms in */
+  transform: scale(1.2); /* This zooms in */
+  filter: brightness(1.25) grayscale(100%);
+  cursor: pointer;
 }
 
 /* more general formatting */
