@@ -66,27 +66,14 @@ created by Mitchell Seitz, using above material, in march 2024.
 }
 
 /* link and dropdown button hover behavior */
-.sidenav a:hover, .dropdown-btn:hover, .sidenav input:hover{
+.sidenav a:hover, .dropdown-btn:hover{
   color: lightgoldenrodyellow;
   transform: scale(1.1); /* This zooms in */
 }
 
-/*formatting for the input forms of our lists*/
-.sidenav input{
-  text-decoration: none;
-  font-size: 20px;
-  display: block;
-  transition: 0.3s;
-  border: none;
-  padding: 8px 8px 8px 32px;
-}
-
-/* 
-Dropdown container (hidden by default). 
-*/
+/* Dropdown container*/
 .dropdown-container {
   display: none;
-  /*This fixes the position relative to the container, and centers the options*/
   position: relative;
 }
 
