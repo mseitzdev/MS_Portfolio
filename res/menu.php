@@ -30,8 +30,13 @@ created by Mitchell Seitz, using above material, in march 2024.
   padding-top: 60px;
   font-size: 25px;
 
-  /* 111 is the RGB color code for the background, 95% is the opacity. */
-  /*background-color: #111;*/ /* This only colors the background */
+  /* 
+  111 is the RGB color code for the background, last value of rgb()
+  is the opacity.
+  Chose to do it this way because changing opaicty directly causes 
+  elements within to become transparent as well.
+  */
+  /*See sidenav for other location of opacity and color*/
   background: rgb(1, 1, 1, 0.9); /*Background color and opacity*/
 }
 
@@ -79,7 +84,9 @@ Dropdown container (hidden by default).
 */
 .dropdown-container {
   display: none;
-  background-color: #111;
+
+  /*See sidenav CSS for other location of opacity and color*/
+  background: rgb(1, 1, 1, 0.9); /*Background color and opacity*/
 
   /*This fixes the position relative to the container, and centers the options*/
   position: relative;
