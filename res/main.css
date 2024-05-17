@@ -12,6 +12,8 @@
   /* This allows elements to reach the edge of the screen*/
   padding:0;
   margin:0;
+  /*Setting font family to arial for cross-browser consistency*/
+  font-family: Arial;
 }
 
 /* General body formatting */

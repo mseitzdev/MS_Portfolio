@@ -34,7 +34,6 @@ echo $document_root;
 
 
 <style>
-
     /*CSS style for the logo/link */
     .homeLink{
         /* 
@@ -52,11 +51,13 @@ echo $document_root;
         transform: translateX(-10%);
         /* Prevents image from squishing, auto adjust to screen */
         object-fit: contain;
-
     }
     .logo:hover{
         transition: 0.3s;
-        filter: brightness(10) grayscale(100%);
+        /* 
+        disabled color change on the logo because it's terrible on safari. \
+        */
+        /* filter: brightness(10) grayscale(100%); */
         transform: translatex(-10%) scale(1.05);
         cursor: pointer;
     }
@@ -72,8 +73,8 @@ echo $document_root;
       /* The padding-direction css allows for some padding to be inserted around elements*/
       padding-left: 1%;
       padding-right: 1%; 
-      padding-bottom: 10px;
-      padding-top: 10px;
+      padding-bottom: 1px;
+      padding-top: 1px;
 
       /* Setting dimensions */
       width: 100%;
@@ -94,10 +95,8 @@ echo $document_root;
 <header style="display: flex;">
 
    <!-- menu button --> 
-    <h1 style="font-size: 70px; margin-top: auto; margin-bottom: auto; "> 
-        <?php include $document_root . '/MS_Portfolio/res/menu.php'; ?> 
-    </h1>
-        
+   <?php include $document_root . '/MS_Portfolio/res/menu.php'; ?> 
+    
     <!-- website logo / link to home --> 
     <a class="homeLink" href="/MS_Portfolio/index.php"> 
         <img src="/MS_Portfolio/res/msportlogo.png" class="logo"> 

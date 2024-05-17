@@ -55,7 +55,7 @@ created by Mitchell Seitz, using above material, in march 2024.
   display: block;
   transition: 0.3s;
   text-align: center;
-
+  font-weight: bold;
 }
 
 /* Style the  dropdown button */
@@ -99,16 +99,20 @@ created by Mitchell Seitz, using above material, in march 2024.
 
 /* menuclick when not hovered on */
 .menuClick{
+  /*Formatting*/
   color: goldenrod;
   float: left;
-  cursor:pointer;
-  margin: 0px;
+  transform: translateY(-7px);
+  font-size: 80px;
+  line-height: 80px;
+  /*Changing cursor*/
+  cursor: pointer;
 }
 
 /*Menu hover behavior*/
 .menuClick:hover{
   transition: 0.3s;
-  transform: scale(1.2); /* This zooms in */
+  transform: scale(1.2) translateY(-7px); /* This zooms in */
   filter: brightness(1.25) grayscale(100%);
   cursor: pointer;
 }
@@ -118,7 +122,6 @@ created by Mitchell Seitz, using above material, in march 2024.
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
-
 
 </style>
 </head>
