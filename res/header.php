@@ -32,29 +32,68 @@ echo $document_root;
     <title> Mitch Seitz Portfolio</title>
 </head>
 
-<!-- Linking in the main CSS file to our program. -->
+
 <style>
+
+    /*CSS style for the logo/link */
+    .homeLink{
+        /* 
+        Maxes out the link dimensions 
+        to allow the logo css to work 
+        */
+        width: 100%;
+        height: 100%;
+    }
+
+    .logo{
+        /* Adjusting width, height, and position on screen */
+        max-width: 70%; 
+        width: auto; 
+        height: 80px;
+        transform: translateX(-7.5%);
+        /* Prevents image from squishing, auto adjust to screen */
+        object-fit: contain;
+    }
+
+    .logo:hover{
+        transition: 0.3s;
+        filter: brightness(130%);
+        transform: translatex(-7.5%) scale(1.1);
+        cursor: pointer;
+    }
+
+    /* This is the formatting for our header, at the top of the page. */
+    header{
+      /* background-color sets the color of the background around the text*/
+      background-color: black;
+      /* The padding-direction css allows for some padding to be inserted around elements*/
+      padding-left: 1%;
+      padding-right: 1%; 
+      padding-bottom: 10px;
+      padding-top: 10px;
+      /* This makes our header take up the whole width of the screen */
+      width: 100%;
+      max-height: 80px;
+    }
+
+    /*Linking in the main.css style file for non - header portions*/
     <?php include $document_root . '/MS_Portfolio/res/main.css' ; ?>
+
 </style>
 
 <!-- the header section -->
 <body>
-<header style="display: flex; margin: 0px;">
+<header style="display: flex;">
 
    <!-- menu button --> 
-    <h1 style="font-size: 60px; color: goldenrod; 
-               margin-top: auto; margin-bottom: auto;"> 
+    <h1 style="font-size: 50px; margin-top: auto; margin-bottom: auto; "> 
         <?php include $document_root . '/MS_Portfolio/res/menu.php'; ?> 
     </h1>
         
-
-    <!-- website logo --> 
-    <img src="/MS_Portfolio/res/msportlogo.png" 
-         style="max-width: 70%; max-height: 80px; 
-                width: auto; height: auto;
-                margin-left: auto; margin-right: auto; 
-                object-fit: contain;
-                transform: translateX(-10%);">
+    <!-- website logo / link to home --> 
+    <a class="homeLink" href="/MS_Portfolio/index.php"> 
+        <img src="/MS_Portfolio/res/msportlogo.png" class="logo"> 
+    </a>
 
 </header>
 

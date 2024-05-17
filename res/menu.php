@@ -40,6 +40,10 @@ created by Mitchell Seitz, using above material, in march 2024.
   opacity: 0.90;
   */
 
+  /* 
+  This sets the background color and opacity
+  without inheritance issues 
+  */
   background-color: rgba(1,1,1,0.9);
 }
 
@@ -67,7 +71,7 @@ created by Mitchell Seitz, using above material, in march 2024.
 
 /* link and dropdown button hover behavior */
 .sidenav a:hover, .dropdown-btn:hover{
-  color: lightgoldenrodyellow;
+  filter: brightness(130%);
   transform: scale(1.1); /* This zooms in */
 }
 
@@ -96,13 +100,12 @@ created by Mitchell Seitz, using above material, in march 2024.
 .menuClick{
   color: goldenrod;
   float: left;
-  background-color: black;
   cursor:pointer;
 }
 
 /*Menu hover behavior*/
 .menuClick:hover{
-  color: lightgoldenrodyellow;
+  filter: brightness(130%);
   transition: 0.3s;
   transform: scale(1.1); /* This zooms in */
 }
