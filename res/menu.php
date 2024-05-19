@@ -124,7 +124,6 @@ created by Mitchell Seitz, using above material, in march 2024.
 }
 
 </style>
-</head>
 
 <div id="mySidenav" class="sidenav">
 

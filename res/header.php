@@ -32,8 +32,8 @@ echo $document_root;
     <title> Mitch Seitz Portfolio</title>
 </head>
 
-
 <style>
+
     /*CSS style for the logo/link */
     .homeLink{
         /* 
@@ -88,10 +88,24 @@ echo $document_root;
     /*Linking in the main.css style file for non - header portions*/
     <?php include $document_root . '/MS_Portfolio/res/main.css' ; ?>
 
+    /* particle background */
+    #particles-js{
+        height: 100%;
+        background: #f00;
+        /*
+        z-index of -100 puts the div at the back, 
+        position fixed makes it stay in the background.
+        */
+        z-index: -100;
+        position: fixed;
+    }
+
 </style>
 
-<!-- the header section -->
+<!-- starting the body -->
 <body>
+
+<!-- the header section -->
 <header style="display: flex;">
 
    <!-- menu button --> 
@@ -104,5 +118,7 @@ echo $document_root;
 
 </header>
 
-
-
+<!-- bringing particles effect in -->
+<div id="particles-js"> </div>
+<script type="text/javascript" src="/MS_Portfolio/res/particles/particles.js"></script>
+<script type="text/javascript" src="/MS_Portfolio/res/particles/app.js"></script>

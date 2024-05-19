@@ -4,5 +4,5 @@
         &copy; <?php echo date("Y"); ?> Mitchell Seitz
     </div>
 </footer>
-</body>
+</body> 
 </html>
