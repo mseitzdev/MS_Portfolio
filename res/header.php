@@ -34,64 +34,11 @@ echo $document_root;
 
 <style>
 
-    /*CSS style for the logo/link */
-    .homeLink{
-        /* 
-        Maxes out the link dimensions 
-        to allow the logo css to work 
-        */
-        width: 100%;
-        height: 100%;
-    }
-    .logo{
-        /* Adjusting width, height, and position on screen */
-        max-width: 70%; 
-        width: auto; 
-        height: 80px;
-        transform: translateX(-10%);
-        /* Prevents image from squishing, auto adjust to screen */
-        object-fit: contain;
-    }
-    .logo:hover{
-        transition: 0.3s;
-        /* 
-        disabled color change on the logo because it's terrible on safari. \
-        */
-        /* filter: brightness(10) grayscale(100%); */
-        transform: translatex(-10%) scale(1.05);
-        cursor: pointer;
-    }
-
-    /* This is the formatting for our header, at the top of the page. */
-    header{
-      /* 
-      This sets the background color and opacity
-      without inheritance issues 
-      */
-      background-color: rgba(1,1,1,0.9);
-
-      /* The padding-direction css allows for some padding to be inserted around elements*/
-      padding-left: 1%;
-      padding-right: 1%; 
-      padding-bottom: 1px;
-      padding-top: 1px;
-
-      /* Setting dimensions */
-      width: 100%;
-      max-height: 80px;
-
-      /*Toggle for scrollability*/
-      position: fixed;
-
-    }
-
-    /*Linking in the main.css style file for non - header portions*/
-    <?php include $document_root . '/MS_Portfolio/res/main.css' ; ?>
-
     /* particle background */
     #particles-js{
         height: 100%;
-        background: #f00;
+        width: 100%;
+        background: #111;
         /*
         z-index of -100 puts the div at the back, 
         position fixed makes it stay in the background.
@@ -99,6 +46,10 @@ echo $document_root;
         z-index: -100;
         position: fixed;
     }
+
+
+    /*Linking in the main.css style file for non - header portions*/
+    <?php include $document_root . '/MS_Portfolio/res/main.css' ; ?>
 
 </style>
 
