@@ -18,14 +18,12 @@
 
 /* General body formatting */
 body {
-  background-color: goldenrod;
   text-align: center;
   font-family: "Lato", sans-serif;
 }
 
 /*Formatting for the information class, which will hold our information.*/
 .information{
-  background-color: lightgoldenrodyellow;
   font-size: 22px; /* This is how you set the font size  */
   padding-left: 15%;
   padding-right: 15%;
