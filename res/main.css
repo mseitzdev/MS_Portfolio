@@ -80,7 +80,7 @@ main{
   padding-right: 15%;
   */
   padding-top: 100px;
-  padding-bottom: 300px;
+  padding-bottom: 100px;
   /* margin-<direction> allows you to impose limits on a element's size in a certain direction */
   margin-left: 7.5%;
   margin-right: 7.5%;
@@ -91,6 +91,13 @@ main{
 }
 
 /*Formatting for boxes surrounding contents*/
+.mainbox{
+
+  /*creates rounded border edges*/
+  border-radius: 25px;
+  /*Background color- matches footer and header.*/
+  background-color: rgba(1,1,1,0.8);;
+}
 
 /* Formatting for page titles */
 .pagetitle{
