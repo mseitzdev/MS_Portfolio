@@ -47,7 +47,6 @@ echo $document_root;
         position: fixed;
     }
 
-
     /*Linking in the main.css style file for non - header portions*/
     <?php include $document_root . '/MS_Portfolio/res/main.css' ; ?>
 

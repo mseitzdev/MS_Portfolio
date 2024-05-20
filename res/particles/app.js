@@ -16,7 +16,7 @@ particlesJS('particles-js',
   {
     "particles": {
       "number": {
-        "value": 80,
+        "value": 160, /*Number of dots, original 80*/
         "density": {
           "enable": true,
           "value_area": 800
@@ -41,7 +41,7 @@ particlesJS('particles-js',
         }
       },
       "opacity": {
-        "value": 1, /*Change opacity to 1 */
+        "value": 1, /*Change particle opacity to 1 */
         "random": false,
         "anim": {
           "enable": false,
@@ -51,29 +51,29 @@ particlesJS('particles-js',
         }
       },
       "size": {
-        "value": 5,
-        "random": true,
+        "value": 2, /*5 is the default value, dot size*/
+        "random": false, /*Randomizes size if true, true is default*/
         "anim": {
           "enable": false,
           "speed": 40,
-          "size_min": 0.1,
+          "size_min": 0.1, 
           "sync": false
         }
       },
       "line_linked": {
         "enable": true,
-        "distance": 150, /*Change the line distance*/
+        "distance": 100, /*Change the line max distance, default 150*/
         "color": "#ffffff",
-        "opacity": 0.8, /*Change the line opacity*/
+        "opacity": 0.6, /*Change the line opacity*/
         "width": 1
       },
       "move": {
         "enable": true,
-        "speed": 6,
+        "speed": 1, /*Adjust dot speed, default 6*/
         "direction": "none",
         "random": false,
         "straight": false,
-        "out_mode": "out",
+        "out_mode": "bounce", /*out = dots leave edge, bounce = dots bounce off edge.*/
         "attract": {
           "enable": false,
           "rotateX": 600,

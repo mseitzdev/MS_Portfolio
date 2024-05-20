@@ -16,7 +16,7 @@
   font-family: Arial;
 }
 
-/*CSS style for the logo/link */
+/*CSS style for the logo + it's homepage link */
 .homeLink{
     /* 
     Maxes out the link dimensions 
@@ -29,7 +29,7 @@
     /* Adjusting width, height, and position on screen */
     max-width: 70%; 
     width: auto; 
-    height: 80px;
+    height: 75px;
     transform: translateX(-10%);
     /* Prevents image from squishing, auto adjust to screen */
     object-fit: contain;
@@ -50,7 +50,7 @@ header{
   This sets the background color and opacity
   without inheritance issues 
   */
-  background-color: rgba(1,1,1,0.7);
+  background-color: rgba(1,1,1,0.8);
 
   /* The padding-direction css allows for some padding to be inserted around elements*/
   padding-left: 1%;
@@ -73,19 +73,24 @@ body {
   font-family: "Lato", sans-serif;
 }
 
-/*Formatting for the information class, which will hold our information.*/
-.information{
-  font-size: 22px; /* This is how you set the font size  */
+/*Main formatting - creating the central area to display contents*/
+main{
+  /*
   padding-left: 15%;
   padding-right: 15%;
+  */
   padding-top: 100px;
   padding-bottom: 300px;
   /* margin-<direction> allows you to impose limits on a element's size in a certain direction */
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 7.5%;
+  margin-right: 7.5%;
   min-height: 50vh;
 
+  color: lightgoldenrodyellow;
+  font-size: 22px; 
 }
+
+/*Formatting for boxes surrounding contents*/
 
 /* Formatting for page titles */
 .pagetitle{
@@ -113,7 +118,7 @@ footer{
   width: 100%;
 
   /*design*/
-  background-color: rgba(1,1,1,0.7);
+  background-color: rgba(1,1,1,0.8);
   color: goldenrod;
   text-align: center;
 
