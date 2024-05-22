@@ -72,7 +72,7 @@ created by Mitchell Seitz, using above material, in march 2024.
 /* link and dropdown button hover behavior */
 .sidenav a:hover, .dropdown-btn:hover{
   transform: scale(1.2); /* This zooms in */
-  filter: brightness(1.25) grayscale(100%);
+  color: lightgoldenrodyellow;
   cursor: pointer;
 }
 
@@ -113,7 +113,7 @@ created by Mitchell Seitz, using above material, in march 2024.
 .menuClick:hover{
   transition: 0.2s;
   transform: scale(1.2) translateY(-7px); /* This zooms in */
-  filter: brightness(1.25) grayscale(100%);
+  color: lightgoldenrodyellow;
   cursor: pointer;
 }
 

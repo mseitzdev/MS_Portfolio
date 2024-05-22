@@ -110,7 +110,7 @@ main{
 
 .copyright:hover{
   transition: 0.2s;
-  filter: brightness(1.25) grayscale(100%);
+  color: lightgoldenrodyellow;
   cursor: not-allowed;
 }
 
