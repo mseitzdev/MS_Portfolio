@@ -69,7 +69,7 @@ particlesJS('particles-js',
       },
       "move": {
         "enable": true,
-        "speed": 1, /*Adjust dot speed, default 6*/
+        "speed": 0.5, /*Adjust dot speed, default 6*/
         "direction": "none",
         "random": false,
         "straight": false,

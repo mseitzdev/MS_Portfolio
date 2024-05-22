@@ -35,7 +35,7 @@
     object-fit: contain;
 }
 .logo:hover{
-    transition: 0.3s;
+    transition: 0.2s;
     /* 
     disabled color change on the logo because it's terrible on safari. \
     */
@@ -79,8 +79,10 @@ main{
   padding-left: 15%;
   padding-right: 15%;
   */
+
   padding-top: 100px;
   padding-bottom: 100px;
+
   /* margin-<direction> allows you to impose limits on a element's size in a certain direction */
   margin-left: 7.5%;
   margin-right: 7.5%;
@@ -92,7 +94,6 @@ main{
 
 /*Formatting for boxes surrounding contents*/
 .mainbox{
-
   /*creates rounded border edges*/
   border-radius: 25px;
   /*Background color- matches footer and header.*/
@@ -108,7 +109,7 @@ main{
 }
 
 .copyright:hover{
-  transition: 0.3s;
+  transition: 0.2s;
   filter: brightness(1.25) grayscale(100%);
   cursor: not-allowed;
 }

@@ -26,7 +26,7 @@ created by Mitchell Seitz, using above material, in march 2024.
   top: 0;
   left: 0;
   overflow-x: hidden;
-  transition: 0.3s;
+  transition: 0.2s;
   padding-top: 60px;
   font-size: 25px;
 
@@ -44,7 +44,7 @@ created by Mitchell Seitz, using above material, in march 2024.
   This sets the background color and opacity
   without inheritance issues 
   */
-  background-color: rgba(1,1,1,0.9);
+  background-color: rgba(1,1,1,0.8);
 }
 
 /*General formatting for links and dropdown buttons*/
@@ -53,7 +53,7 @@ created by Mitchell Seitz, using above material, in march 2024.
   text-decoration: none;
   color: goldenrod;
   display: block;
-  transition: 0.3s;
+  transition: 0.2s;
   text-align: center;
   font-weight: bold;
 }
@@ -111,7 +111,7 @@ created by Mitchell Seitz, using above material, in march 2024.
 
 /*Menu hover behavior*/
 .menuClick:hover{
-  transition: 0.3s;
+  transition: 0.2s;
   transform: scale(1.2) translateY(-7px); /* This zooms in */
   filter: brightness(1.25) grayscale(100%);
   cursor: pointer;
