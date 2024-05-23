@@ -35,7 +35,7 @@
     object-fit: contain;
 }
 .logo:hover{
-    transition: 0.2s;
+    transition: 0.25s;
     /* 
     disabled color change on the logo because it's terrible on safari. \
     */
@@ -108,8 +108,9 @@ main{
   margin-right: 5%;
 }
 
+/* copyright on hover */
 .copyright:hover{
-  transition: 0.2s;
+  transition: 0.25s;
   color: lightgoldenrodyellow;
   cursor: not-allowed;
 }

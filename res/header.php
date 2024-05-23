@@ -29,7 +29,7 @@ echo $document_root;
 <html>
 <!-- the head section -->
 <head>
-    <title> Mitch Seitz Portfolio</title>
+    <title> Mitchell Seitz Portfolio</title>
 </head>
 
 <style>

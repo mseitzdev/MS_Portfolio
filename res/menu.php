@@ -26,7 +26,7 @@ created by Mitchell Seitz, using above material, in march 2024.
   top: 0;
   left: 0;
   overflow-x: hidden;
-  transition: 0.2s;
+  transition: 0.25s;
   padding-top: 60px;
   font-size: 25px;
 
@@ -53,7 +53,7 @@ created by Mitchell Seitz, using above material, in march 2024.
   text-decoration: none;
   color: goldenrod;
   display: block;
-  transition: 0.2s;
+  transition: 0.25s;
   text-align: center;
   font-weight: bold;
 }
@@ -111,7 +111,7 @@ created by Mitchell Seitz, using above material, in march 2024.
 
 /*Menu hover behavior*/
 .menuClick:hover{
-  transition: 0.2s;
+  transition: 0.25s;
   transform: scale(1.2) translateY(-7px); /* This zooms in */
   color: lightgoldenrodyellow;
   cursor: pointer;
