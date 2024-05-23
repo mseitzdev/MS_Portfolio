@@ -26,40 +26,20 @@ include 'res/header.php';
         <h1 class="pagetitle">Welcome to my portfolio!</h1><br>
         
         <p>
-            This website is a final project for COMP 3541 at Thomspon Rivers University, and is inteded to represent a store catering to computer science 
-            students. The products on this website are, mostly, not real, and are not intended to be taken seriously. 
-        <br><br>
-            This store does not process actual 
-            orders or payment, and instead is a simulaiton of a store. The user accounts and orders are stored in the database and presented as if they 
-            are real, but the orders do not process any real payment and are intended to be representations of orders rather than real orders. 
-        <br><br>
-        </p>
-        <p >
-            This website is a final project for COMP 3541 at Thomspon Rivers University, and is inteded to represent a store catering to computer science 
-            students. The products on this website are, mostly, not real, and are not intended to be taken seriously. 
-        <br><br>
-            This store does not process actual 
-            orders or payment, and instead is a simulaiton of a store. The user accounts and orders are stored in the database and presented as if they 
-            are real, but the orders do not process any real payment and are intended to be representations of orders rather than real orders. 
-        <br><br>
-        </p>
-        <p >
-            This website is a final project for COMP 3541 at Thomspon Rivers University, and is inteded to represent a store catering to computer science 
-            students. The products on this website are, mostly, not real, and are not intended to be taken seriously. 
-        <br><br>
-            This store does not process actual 
-            orders or payment, and instead is a simulaiton of a store. The user accounts and orders are stored in the database and presented as if they 
-            are real, but the orders do not process any real payment and are intended to be representations of orders rather than real orders. 
-        <br><br>
-        </p>
-        <p >
-            This website is a final project for COMP 3541 at Thomspon Rivers University, and is inteded to represent a store catering to computer science 
-            students. The products on this website are, mostly, not real, and are not intended to be taken seriously. 
-        <br><br>
-            This store does not process actual 
-            orders or payment, and instead is a simulaiton of a store. The user accounts and orders are stored in the database and presented as if they 
-            are real, but the orders do not process any real payment and are intended to be representations of orders rather than real orders. 
-        <br><br>
+            My name is Mitchell Seitz, and this is my developer portfolio. 
+            <br><br>
+            During High School, I wasn't ever really able to apply myself and 
+            
+            <br><br>
+             I began exploring 
+            my interests across fields such as Neuroscience, Mathematics, Languages, and Computer Programming, 
+            eventually deciding to enroll with Athabasca University to skip the highschool pre-requisites and start 
+            learning 
+            <br><br>
+            I am currently a third-year student in the 
+            Bachelor of Computing Science program at Thompson Rivers Universtiy, and am also pursuing personal projects 
+            in my spare time. I have created this portfolio to show and explain various personal and school projects 
+            (With permission from my profs of course). 
         </p>
     </div>
 

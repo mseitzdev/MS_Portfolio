@@ -18,7 +18,7 @@ if (!$https) {
 //getting the document root - NOTE -> The php docuemnt root appears to be different from the HTML document root? 
 $document_root = $_SERVER['DOCUMENT_ROOT'];
 
-//test code, enable as needed.
+//test code, enable when lining up filesystem.
 /*
 echo $document_root;
 */
@@ -27,30 +27,18 @@ echo $document_root;
 
 <!DOCTYPE html>
 <html>
+
 <!-- the head section -->
 <head>
+
     <title> Mitchell Seitz Portfolio</title>
+
+    <style>
+        /*Linking in the main.css style file for non - header portions*/
+        <?php include $document_root . '/MS_Portfolio/res/main.css' ; ?>
+    </style>
+
 </head>
-
-<style>
-
-    /* particle background */
-    #particles-js{
-        height: 100%;
-        width: 100%;
-        background: #111;
-        /*
-        z-index of -100 puts the div at the back, 
-        position fixed makes it stay in the background.
-        */
-        z-index: -100;
-        position: fixed;
-    }
-
-    /*Linking in the main.css style file for non - header portions*/
-    <?php include $document_root . '/MS_Portfolio/res/main.css' ; ?>
-
-</style>
 
 <!-- starting the body -->
 <body>
