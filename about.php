@@ -27,13 +27,17 @@ include 'res/header.php';
         
         <p style="font-size: 19px; text-align: left;">
 
-            My name is Mitchell Seitz, and I'm a cross between a self-taught developer and a computer science 
-            student. I'm in my Third year of my Bachelors of Computing Science at TRU, and have been studying online 
+            My name is Mitchell Seitz, and I'm kind of a cross between a self-taught developer and a computer science 
+            student. 
+            <br><br>
+            I'm in my Third year of my Bachelors of Computing Science at TRU, and have been studying online 
             for my entire university education. I chose to study online so I could juggle school, work, and activism,
             alongside other things. As a result, I've been learning on my own, and as of right now I'm focusing on 
             finishing school and showcasing my personal projects. This portfolio is the result of that, and I look forward to 
             taking this time to get nearer to the end of my degree, exploring projects I find personally exciting, and 
             getting ready to enter the workforce. 
+            <br><br>
+            What you see here right now are just basic school projects - But stay tuned for bigger, more interesting things!
 
         </p>
 

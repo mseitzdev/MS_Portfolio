@@ -141,7 +141,7 @@ created by Mitchell Seitz, using above material, in march 2024.
   </div>
 
   <!-- Website Prototypes Dropdown -->
-  <button class="dropdown-btn">Website Prototypes ▼</button>
+  <button class="dropdown-btn">Web Development ▼</button>
   <div class="dropdown-container">
       <a href="/MS_portfolio/index.php" class="dropdown-element">Coming Soon!</a> 
   </div>

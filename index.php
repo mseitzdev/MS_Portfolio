@@ -24,7 +24,14 @@ include 'res/header.php';
         <h1 class="pagetitle">Welcome to my portfolio!</h1><br>
         
         <p>
-            Tune in soon to see what I've made :)
+
+            I've only put this portfolio online recently, and 
+            right now what you see are mostly school projects. 
+            <br><br>
+            I'm working on something much, much 
+            bigger though, so stay tuned to see what I've made
+            :)
+
         </p>
 
     </div>
