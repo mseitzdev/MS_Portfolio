@@ -1,6 +1,6 @@
 MS_Portfolio
 
-Mitchell Seitz, May 2024
+Created by Mitchell Seitz, May 2024
 
 This is the source code for my portfolio website, programmed using 
 PHP, HTML, CSS, and JavaScript. 
