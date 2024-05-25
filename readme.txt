@@ -7,8 +7,13 @@ PHP, HTML, CSS, and JavaScript.
 
 Big thanks to the following sources that helped me make this project:
 
-Vincent Garreau, Particles.js - The library I used to make the background: 
+Vincent Garreau, Particles.js: 
+
    https://github.com/VincentGarreau/particles.js
+
+   This is the library I used to make the background for the website, 
+   and you can find the files in res/particles. I modified them as 
+   needed to suit the needs of this website. 
 
 w3 Schools, where I learned how to make the Menu system: 
    1: https://www.w3schools.com/howto/howto_js_sidenav.asp
