@@ -1,13 +1,20 @@
-Big thanks to the following for libraries, templates, etc.
-that contributed to my project:
+MS_Portfolio
 
-Vincent Garreau, Particles.js : 
+Mitchell Seitz, May 2024
+
+This is the source code for my portfolio website, programmed using 
+PHP, HTML, CSS, and JavaScript. 
+
+Big thanks to the following sources that helped me make this project:
+
+Vincent Garreau, Particles.js - The library I used to make the background: 
    https://github.com/VincentGarreau/particles.js
 
-w3 Schools, Menu system: 
+w3 Schools, where I learned how to make the Menu system: 
    1: https://www.w3schools.com/howto/howto_js_sidenav.asp
    2: https://www.w3schools.com/howto/howto_js_dropdown_sidenav.asp
 
+Notes, by topic:
 _______________________________________________________________________
 
 When changing background particle behavior, please edit 
