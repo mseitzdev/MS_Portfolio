@@ -42,9 +42,10 @@ created by Mitchell Seitz, using above material, in march 2024.
 
   /* 
   This sets the background color and opacity
-  without inheritance issues 
+  without inheritance issues. 
+  Menu is darker than header, footer, and text area. 
   */
-  background-color: rgba(1,1,1,0.8);
+  background-color: rgba(1,1,1,0.9);
 }
 
 /*General formatting for links and dropdown buttons*/
