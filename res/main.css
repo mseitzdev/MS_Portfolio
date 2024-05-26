@@ -67,7 +67,7 @@ header{
   color: 111, aka light black
   Opacity : 0.8, 80%
   */
-  background-color: rgba(1,1,1,0.8);
+  background-color: rgba(1,1,1,0.85);
 
   /* The padding-direction css allows for some padding to be inserted around elements*/
   padding-left: 1%;
@@ -118,7 +118,7 @@ main{
   border-radius: 25px;
 
   /*Background color- matches footer and header.*/
-  background-color: rgba(1,1,1,0.8);
+  background-color: rgba(1,1,1,0.85);
 
   /*Padding the edges */
   padding-left: 5%;
@@ -156,7 +156,7 @@ footer{
   width: 100%;
 
   /*design*/
-  background-color: rgba(1,1,1,0.8);
+  background-color: rgba(1,1,1,0.85);
   color: goldenrod;
   text-align: center;
 
