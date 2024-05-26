@@ -44,7 +44,7 @@ created by Mitchell Seitz, using above material, in march 2024.
   This sets the background color and opacity
   without inheritance issues. 
   */
-  background-color: rgba(1,1,1,0.9);
+  background-color: rgba(1,1,1,0.95);
 }
 
 /*General formatting for links and dropdown buttons*/
