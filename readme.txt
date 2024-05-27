@@ -37,5 +37,9 @@ When porting to other web server:
 
 3: Check files menu.php and header.php to ensure that the directories line up. May be different 
    on different hosting setups compared to XAMPP test environment. 
+
       - I.E, you need to remove "/MS_Portfolio/" anywhere you find it in a path if you move this 
-      website to the root directory of the web server it is being used on.
+      website to the root directory of the web server it is being used on. All other files use 
+      relative links.
+
+4: Make sure to test! Every link, every page, every function. Every time. 
