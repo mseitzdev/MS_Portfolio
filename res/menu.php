@@ -131,23 +131,23 @@ created by Mitchell Seitz, using above material, in march 2024.
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 
   <!-- This is the home button, which will show the home content. -->
-  <a href="/MS_portfolio/index.php">Home</a>
+  <a href="/index.php">Home</a>
 
   <!-- Android apps dropdown -->
   <button class="dropdown-btn">Android Apps ▼</button>
   <div class="dropdown-container">
-      <a href="/MS_portfolio/androidApps/busSimulator.php" class="dropdown-element">Transit System Simulator</a> 
-      <a href="/MS_portfolio/androidApps/androidCalc.php" class="dropdown-element">Scientific Calculator</a> 
+      <a href="/androidApps/busSimulator.php" class="dropdown-element">Transit System Simulator</a> 
+      <a href="/androidApps/androidCalc.php" class="dropdown-element">Scientific Calculator</a> 
   </div>
 
   <!-- Website Prototypes Dropdown -->
   <button class="dropdown-btn">Web Development ▼</button>
   <div class="dropdown-container">
-      <a href="/MS_portfolio/index.php" class="dropdown-element">Coming Soon!</a> 
+      <a href="/index.php" class="dropdown-element">Coming Soon!</a> 
   </div>
 
   <!-- About me page link -->
-  <a href="/MS_portfolio/about.php">About Me</a>
+  <a href="/about.php">About Me</a>
   
 </div>
 

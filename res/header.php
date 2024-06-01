@@ -35,7 +35,7 @@ echo $document_root;
 
     <style>
         /*Linking in the main.css style file for non - header portions*/
-        <?php include $document_root . '/MS_Portfolio/res/main.css' ; ?>
+        <?php include $document_root . '/res/main.css' ; ?>
     </style>
 
 </head>
@@ -47,16 +47,16 @@ echo $document_root;
 <header style="display: flex;">
 
    <!-- menu button --> 
-   <?php include $document_root . '/MS_Portfolio/res/menu.php'; ?> 
+   <?php include $document_root . '/res/menu.php'; ?> 
     
     <!-- website logo / link to home --> 
-    <a class="homeLink" href="/MS_Portfolio/index.php"> 
-        <img src="/MS_Portfolio/res/msportlogo.png" class="logo"> 
+    <a class="homeLink" href="/index.php"> 
+        <img src="/res/msportlogo.png" class="logo"> 
     </a>
 
 </header>
 
 <!-- bringing particles effect in -->
 <div id="particles-js"> </div>
-<script type="text/javascript" src="/MS_Portfolio/res/particles/particles.js"></script>
-<script type="text/javascript" src="/MS_Portfolio/res/particles/app.js"></script>
+<script type="text/javascript" src="/res/particles/particles.js"></script>
+<script type="text/javascript" src="/res/particles/app.js"></script>
