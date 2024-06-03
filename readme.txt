@@ -31,7 +31,6 @@ _______________________________________________________________________
 
 Notes - For Debug: 
 
-- Check chrome and firefox on macos, chrome, edge, firefox on windows, and chrome and firefox on ubuntu 
-after major changes. 
+- Check chrome, firefox, safari, and edge on macos / windows / ios / android / ubuntu after major changes.
 - Firefox on ubuntu reders differently than firefox on other browsers. Particles.js background animation faster?
 - Header now works on all browsers/devices, need to re-center the logo to make it perfect. 
