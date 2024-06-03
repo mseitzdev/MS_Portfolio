@@ -156,7 +156,7 @@ created by Mitchell Seitz, using above material, in march 2024.
 
 <!-- This is the new code for the menu symbol, you can add text  -->
 <span onclick="openNav()" class="menuClick"> 
-  <img src='/res/menusymbol.png' style="max-height: 40px; padding-left: 5px;" > </img> 
+  <img src='/res/menuSymbol.png' style="max-height: 40px; padding-left: 5px;" > </img> 
 </span> 
 
 <script>
