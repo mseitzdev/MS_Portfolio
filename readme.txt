@@ -29,3 +29,7 @@ MS_Portfolio/res/particles/app.js, particles.js has the default values.
 Clear browser cache and hit refresh.
 _______________________________________________________________________
 
+Notes - For Debug: 
+
+- Menu symbol renders differently on microsoft browsers  - Check edge, firefox, chrome on windows. May need to change font? Or, Could replace menu symbol with image. 
+- Firefox on ubuntu reders differently than firefox on other browsers. Particles.js background animation faster?
