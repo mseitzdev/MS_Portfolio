@@ -31,5 +31,6 @@ _______________________________________________________________________
 
 Notes - For Debug: 
 
-- Menu symbol renders differently on microsoft browsers  - Check edge, firefox, chrome on windows. May need to change font? Or, Could replace menu symbol with image. 
+- Check chrome, firefox, safari, and edge on macos / windows / ios / android / ubuntu after major changes.
 - Firefox on ubuntu reders differently than firefox on other browsers. Particles.js background animation faster?
+- Header now works on all browsers/devices, need to re-center the logo to make it perfect. 
