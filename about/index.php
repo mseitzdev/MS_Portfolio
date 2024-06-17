@@ -1,6 +1,6 @@
 <!-- 
 
-about.pho
+about/index.php
 
 Programmed by Mitchell Seitz, March 6 2024. 
 
@@ -14,7 +14,7 @@ etc.
 <?php 
 
 //inclding program header, forces secure connection.
-include 'res/header.php'; 
+include '../res/header.php'; 
 
 ?>
 
@@ -49,5 +49,5 @@ include 'res/header.php';
 
 <?php 
 //including footer 
-include 'res/footer.php'; 
+include '../res/footer.php'; 
 ?>

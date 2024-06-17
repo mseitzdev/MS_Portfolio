@@ -147,7 +147,7 @@ created by Mitchell Seitz, using above material, in march 2024.
   </div>
 
   <!-- About me page link -->
-  <a href="/about.php">About Me</a>
+  <a href="/about/index.php">About Me</a>
   
 </div>
 

@@ -49,10 +49,13 @@ echo $document_root;
    <!-- menu button --> 
    <?php include $document_root . '/res/menu.php'; ?> 
     
-    <!-- website logo / link to home --> 
-    <a class="homeLink" href="/index.php"> 
-        <img src="/res/msportlogo.png" class="logo"> 
-    </a>
+    <!-- Div to surround the logo and link -->
+    <div class="homeLogo"> 
+        <!-- website logo inside link to home -->
+        <a href="/index.php"> 
+            <img src="/res/msportlogo.png" class="logo"> 
+        </a>
+    </div>
 
 </header>
 
