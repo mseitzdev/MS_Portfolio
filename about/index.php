@@ -41,18 +41,41 @@ include '../res/header.php';
             as a handyman in my spare time to get extra money to support myself. I also worked service jobs, landscaping, 
             demolition, construction, property maintenance, and other jobs to make ends meet. 
             <br><br>
-            While doing all of that, I still found myself curious, and started spending my spare time learning anything 
+            During that part of my life, I still found myself curious, and started spending my spare time learning anything 
             I could find. I started by 
-            bringing home university textbooks abandoned by students in the apartment buildings I worked in for one of my 
-            jobs, and later on started buying them at value village. I started learning Math from 
-            books in the break room at a grocery store I worked at, solving brilliant.org problems 
-            on the bus, or using the wolfram problem generators to test myself. I learned some python, started messing around
-            with Arduino and Raspbery Pi, dabbled a bit in foreign languages, and started practicing doing math in my head. 
+            bringing home university textbooks left by university graduates in the apartment buildings I worked in for one of my 
+            jobs. I was interested in a variety of things, like math, neuroscience, 
+            and human biology. Later on, my curiosity took a more technical focus, and 
+            I started learning math in the break room at a grocery store I worked at, solving brilliant.org 
+            problems on the bus, or using the wolfram problem generators to test myself. I also learned some python, 
+            started messing around with an arduino and raspberry pi, and dabbled in languages. 
             <br><br>
             At some point, I felt like I had caught up on learning I didn't really get a chance to do in High School, and when I 
-            was 19 I decided I wanted to pursue an University Education. However, although I learned as much as I could, 
+            was 19 I decided I wanted to pursue university education. However, I was juggling multiple jobs, and didn't have 
+            pre-requisites for admission to school. I didn't want to do more High School though, so I enrolled with Athabasca 
+            University, where I could study online around my schedule. Because AU courses transfer well to pretty much any 
+            university in Canada, I took this route to avoid having to do pesky pre-requisites and get some uni done.  
             <br><br>
+        </p>
 
+            <div style="text-align: center;">
+                <img src="AUStart.png" alt="My grades from my first semester at AU." style="max-width: 90%; max-height: 300px">
+                <h5> My first University courses. </h5>
+            </div>
+
+        <p style="font-size: 19px; text-align: left;">
+
+            <br>
+            Of course, I was still a teenager at the time, and had pretty limited time and money. Over the next few years, I
+            took courses at AU as I was able. I completed twelve courses with a 3.71 GPA on a 4.00 GPA scale,
+            focusing on tech courses including Data Structures & Algorithms, Calculus, Stats, 
+            Programming in Java, C++, Web Development, Systems Analysis and Design, and a few others.
+            <br><br>
+            Of course, studying online is kind of boring. Luckily, I had friends to keep me compnay during this time, 
+            including some amazing people who I met in the foster care system as a teenager. When I reconnected 
+            with a few of them, it turned out a few of us had the same idea. There was one person, though, who 
+            who really had what it took to bring us together and lead us in bringing that idea to life. 
+            <br><br> 
 
         </p>
 
