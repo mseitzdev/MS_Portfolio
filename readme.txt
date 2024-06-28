@@ -19,10 +19,14 @@ Background Behavior:
    - Clear browser cache and hit refresh.
 _______________________________________________________________________
 
-Issues: 
+Issues & Bugs: 
 
-- Firefox on ubuntu reders differently than firefox on other browsers. 
+- Firefox on ubuntu renders differently than other tested browser/os. 
   Particles.js background animation is faster, cause unknown. 
+
+- For some reason, the header logo is in a slightly different position 
+  on the filled pages (about.php, MATH1651 overview) than emptier ones. 
+  Cause unknown. Tested and found on Chrome/Safari/Firefox on MacOS. 
 _______________________________________________________________________
 
 Borrowed Code

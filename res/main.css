@@ -51,10 +51,26 @@
 .logo:hover{
   transition: 0.25s;
   /* 
-  disabled color change on the logo because it's terrible on safari. \
+  disabled color change on the logo because it's terrible on safari. 
   */
   /* filter: brightness(10) grayscale(100%); */
   transform: translatex(-10%) scale(1.05);
+  cursor: pointer;
+}
+
+/* This is the standard paragraph CSS for most pages */
+.paragraphStandard{
+  font-size: 19px; 
+  text-align: left;
+}
+
+/*CSS for our links*/
+a{
+  color: goldenrod;
+}
+/*Changing link appearance on hover */
+a:hover{
+  color: lightgoldenrodyellow;
   cursor: pointer;
 }
 

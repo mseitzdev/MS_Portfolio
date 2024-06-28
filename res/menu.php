@@ -140,10 +140,19 @@ created by Mitchell Seitz, using above material, in march 2024.
       <a href="/androidApps/androidCalc.php" class="dropdown-element">Scientific Calculator</a> 
   </div>
 
-  <!-- Website Prototypes Dropdown -->
+  <!-- Website Development Dropdown -->
   <button class="dropdown-btn">Web Development ▼</button>
   <div class="dropdown-container">
       <a href="/index.php" class="dropdown-element">Coming Soon!</a> 
+  </div>
+
+    <!-- Website Prototypes Dropdown -->
+  <button class="dropdown-btn">Study Resources ▼</button>
+  <div class="dropdown-container">
+      <button class="dropdown-btn">Math 1651 <small>▽</small> </button>
+      <div class="dropdown-container">
+        <a href="/studyResources/Math1651/index.php" class="dropdown-element"> Overview </a> 
+      </div>
   </div>
 
   <!-- About me page link -->
