@@ -127,7 +127,7 @@ include '../../res/header.php';
         <br>
         <p class="paragraphStandard">
 
-            Finally, if you're really out of practice, then you may feel more comfortable
+            If you're like me starting and haven't done math in a while, you may feel more comfortable
             after practicing general algebra before starting this course. I feel no shame 
             in ocassionally practicing algebra after not doing math in a long time, as it 
             fires up my math brain and gets me ready for more complex topics. Think of it 
@@ -157,13 +157,13 @@ include '../../res/header.php';
         <br>
         <p class="paragraphStandard">
 
-            Finally, here is a link to all algebra on 
+            If you're really not familiar with math, here is a link to all algebra on 
             Khan Academy, which is likely more than what you need, but 
             I included it here because I think it can provide the math you 
             need to know to start this course. It's probably overkill to do all 
             of this for most people, but if someone had zero math knowledge, 
             I'd think that this could get them ready for not just this course,
-            but any University level math course. For most people, just pick out 
+            but any first year math course. For most people, just pick out 
             things you see in this course that you struggle with, and it should 
             be a useful adjunct to your learning.
 
@@ -177,13 +177,13 @@ include '../../res/header.php';
         </h3>
         <br>
 
-        <p class="paragraphStandard">
+        <p style="font-size: 19px; ">
 
-            Because of the large amount of material covered in this course, I have 
-            separated learning resources by module. The navigation menu can be 
-            found at the top of each module page for, as 
-            well as in the side menu under the directory "Study Resources -> Math 1651".
-            I will also include links to the modules at the bottom of the pages, for convenience.
+            Finally, I have separated resources by module. The three ways to navigate are:
+            <br><br>
+            1: Via the side menu, under "Study Resources -> Math 1651"<br><br>
+            2: Via the module menu at the top of the study guide pages<br><br>
+            3: Via the links at the bottom of the page:<br><br>
 
         </p>
 

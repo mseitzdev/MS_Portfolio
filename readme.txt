@@ -2,6 +2,8 @@ MS_Portfolio - See it live on mseitz.dev!
 
 Created by Mitchell Seitz, May 2024
 
+Copyright Mitchell Seitz, May 01 2024-Present
+
 This is the source code for my developer portfolio website, programmed 
 using PHP, HTML, CSS, and JavaScript. Please see the bottom of this 
 readme for borrowed code sources. 
@@ -45,7 +47,7 @@ w3 Schools, I based the menu system off of:
    1: https://www.w3schools.com/howto/howto_js_sidenav.asp
    2: https://www.w3schools.com/howto/howto_js_dropdown_sidenav.asp
 
-Remi Laudanski, Who's codepen example helped me build the 1651 study 
+Remi Laudanski, their codepen example helped me build the 1651 study 
 guide mini-menu: 
 
     1: https://codepen.io/remilaudanski/pen/gbBGyN,
