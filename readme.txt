@@ -3,6 +3,7 @@ MS_Portfolio - See it live on mseitz.dev!
 Created by Mitchell Seitz, May 2024
 
 Copyright Mitchell Seitz, May 01 2024-Present
+Sources for base code & inspirations below 
 
 This is the source code for my developer portfolio website, programmed 
 using PHP, HTML, CSS, and JavaScript. Please see the bottom of this 
@@ -31,7 +32,7 @@ Issues & Bugs:
   Cause unknown. Tested and found on Chrome/Safari/Firefox on MacOS. 
 _______________________________________________________________________
 
-Borrowed Code
+Borrowed Code and Inspirations:
 
 Big thanks to the following sources that helped me make this project
 

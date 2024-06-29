@@ -82,7 +82,7 @@ include '../res/header.php';
         </p>
 
         <div style="text-align: center;">
-            <img src="POwork.png" alt="Chanice and I working on PO." style="max-width: 90%; max-height: 400px">
+            <img src="POWork.png" alt="Chanice and I working on PO." style="max-width: 90%; max-height: 400px">
             <h5> Chanice and I working on set for Project Outsiders. </h5>
         </div>
 
@@ -98,6 +98,8 @@ include '../res/header.php';
             <br><br> 
 
         </p>
+
+        <h1 class="pagetitle">Writing still in progress! Stay tuned :)</h1><br>
 
     </div>
 
