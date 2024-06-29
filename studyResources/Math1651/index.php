@@ -20,9 +20,15 @@ include '../../res/header.php';
     
    <!-- Home page -->
     <div class="mainbox">
+        
+        <h1 class="pagetitle">MATH1651 - Overview</h1>
 
-        <h1 class="pagetitle">Mathematics For Computing Science</h1>
-        <h3> MATH 1651 - Study Resources - Overview</h3><br>
+        <!-- Module Links -->
+        <?php include '1651ModuleLinks.php'; ?>
+
+        <br>
+        <h2> Introduction </h2>
+        <br>
         
         <p class="paragraphStandard">
 
@@ -127,7 +133,7 @@ include '../../res/header.php';
             lift the biggest weight of your life, so don't feel bad about practicing y=mx+b
             before heading into university level math. 
             <br><br>
-            Here are the Khan Academy lessons that I used for my warmup: 
+            Here are some khan academy lessons that make a good warmup: 
 
         </p>
 
@@ -167,7 +173,16 @@ include '../../res/header.php';
               Link - Khan Academy - All Algebra
             </a> 
         </h3>
+        <br>
 
+        <p class="paragraphStandard">
+
+            Because of the large amount of material covered in this course, I have 
+            separated learning resources by module. The navigation menu can be 
+            found at the top of each module page for convenience, as 
+            well as in the side menu under the directory "Study Resources -> Math 1651".
+
+        </p>
 
     </div>
 
