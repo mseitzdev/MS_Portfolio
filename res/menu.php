@@ -154,6 +154,13 @@ created by Mitchell Seitz, using above material, in march 2024.
       <button class="dropdown-btn">Math 1651 <small>▽</small> </button>
       <div class="dropdown-container">
         <a href="/studyResources/Math1651/index.php" class="dropdown-element"> Overview </a> 
+        <a href="/studyResources/Math1651/module1.php" class="dropdown-element"> Module 1 - Vectors </a> 
+        <a href="/studyResources/Math1651/module2.php" class="dropdown-element"> Module 2 - Matrices </a> 
+        <a href="/studyResources/Math1651/module3.php" class="dropdown-element"> Module 3 - </a> 
+        <a href="/studyResources/Math1651/module4.php" class="dropdown-element"> Module 4 - </a> 
+        <a href="/studyResources/Math1651/module5.php" class="dropdown-element"> Module 5 - </a> 
+        <a href="/studyResources/Math1651/module6.php" class="dropdown-element"> Module 6 - </a> 
+        <a href="/studyResources/Math1651/module7.php" class="dropdown-element"> Module 7 - </a> 
       </div>
 
   </div>

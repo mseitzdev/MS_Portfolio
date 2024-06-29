@@ -23,8 +23,8 @@ include '../../res/header.php';
         
         <h1 class="pagetitle">MATH1651 - Overview</h1>
 
-        <!-- Module Links -->
-        <?php include '1651ModuleLinks.php'; ?>
+        <!-- Module Menu -->
+        <?php include '1651ModuleMenu.php'; ?>
 
         
         <h2 style="margin-top: 10px;"> Introduction </h2>
@@ -181,10 +181,16 @@ include '../../res/header.php';
 
             Because of the large amount of material covered in this course, I have 
             separated learning resources by module. The navigation menu can be 
-            found at the top of each module page for convenience, as 
+            found at the top of each module page for, as 
             well as in the side menu under the directory "Study Resources -> Math 1651".
+            I will also include links to the modules at the bottom of the pages, for convenience.
 
         </p>
+
+        <?php 
+            //including the module links at the bottom of the page
+            include '1651ModuleLinks.php'; 
+        ?>
 
     </div>
 
