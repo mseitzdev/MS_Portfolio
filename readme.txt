@@ -44,3 +44,9 @@ Vincent Garreau, Particles.js:
 w3 Schools, I based the menu system off of:  
    1: https://www.w3schools.com/howto/howto_js_sidenav.asp
    2: https://www.w3schools.com/howto/howto_js_dropdown_sidenav.asp
+
+Remi Laudanski, Who's codepen example helped me build the 1651 study 
+guide mini-menu: 
+
+    1: https://codepen.io/remilaudanski/pen/gbBGyN,
+    2: https://codepen.io/remilaudanski

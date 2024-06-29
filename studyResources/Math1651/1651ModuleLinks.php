@@ -1,9 +1,23 @@
+<!--
+
+1651ModuleLinks.php 
+
+This file contains a mini-menu for navigating through the module links
+for the 1651 study guide. 
+
+Code based on: https://codepen.io/remilaudanski/pen/gbBGyN,
+
+Credit to user: R. Laudanski, https://codepen.io/remilaudanski
+
+-->
+
 <style>
 
 /*Formatting for the nav holding everything*/
 .moduleLinksNav {
   width : 300px; 
-  margin: 10px auto; 
+  margin-left: auto; 
+  margin-right: auto;
   margin-top: 0px;
   margin-bottom: 0px;
 }
@@ -48,7 +62,7 @@
 
 /*Slide out menu formatting when menu is open*/ 
 #touch:checked + .slide {
-	height: 400px;
+	height: 350px;
 } 
 
 </style>

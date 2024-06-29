@@ -146,13 +146,16 @@ created by Mitchell Seitz, using above material, in march 2024.
       <a href="/index.php" class="dropdown-element">Coming Soon!</a> 
   </div>
 
-    <!-- Website Prototypes Dropdown -->
+    <!-- Study Resources Dropdowns -->
   <button class="dropdown-btn">Study Resources ▼</button>
   <div class="dropdown-container">
+
+      <!-- Inner menus are incased in small tags to show differences -->
       <button class="dropdown-btn">Math 1651 <small>▽</small> </button>
       <div class="dropdown-container">
         <a href="/studyResources/Math1651/index.php" class="dropdown-element"> Overview </a> 
       </div>
+
   </div>
 
   <!-- About me page link -->

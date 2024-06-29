@@ -26,8 +26,8 @@ include '../../res/header.php';
         <!-- Module Links -->
         <?php include '1651ModuleLinks.php'; ?>
 
-        <br>
-        <h2> Introduction </h2>
+        
+        <h2 style="margin-top: 10px;"> Introduction </h2>
         <br>
         
         <p class="paragraphStandard">
@@ -82,7 +82,9 @@ include '../../res/header.php';
         </p>
 
         <br>
-        <h3> <a href="https://brilliant.org/home/"> Link - Check out Brilliant.org! </a> </h3>
+        <h3 class="zoomLink"> 
+          <a href="https://brilliant.org/home/"> Check out Brilliant.org! </a> 
+        </h3>
         <br>
 
         <p class="paragraphStandard">
@@ -95,31 +97,31 @@ include '../../res/header.php';
         </p>
 
         <br>
-        <h3> 
-            <a href="https://www.mathsisfun.com/numbers/simplify-square-roots.html"> 
-              Link - Simplifying Square Roots 
-            </a> 
+        <h3 class="zoomLink"> 
+          <a href="https://www.mathsisfun.com/numbers/simplify-square-roots.html"> 
+            Simplifying Square Roots 
+          </a> 
         </h3>
 
         <br>
-        <h3> 
-            <a href="https://www.cuemath.com/algebra/exponent-rules/"> 
-            Link - Exponent Rules
-            </a> 
+        <h3 class="zoomLink"> 
+          <a href="https://www.cuemath.com/algebra/exponent-rules/"> 
+            Exponent Rules
+          </a> 
         </h3>
 
         <br>
-        <h3> 
-            <a href="https://www.splashlearn.com/math-vocabulary/fractions/fraction-rules"> 
-              Link - Fraction Rules 
-            </a> 
+        <h3 class="zoomLink"> 
+          <a href="https://www.splashlearn.com/math-vocabulary/fractions/fraction-rules"> 
+            Fraction Rules 
+          </a> 
         </h3>
 
         <br>
-        <h3> 
-            <a href="https://www.geeksforgeeks.org/can-a-fraction-be-negative/"> 
-              Link - Can fractions be Negative? 
-            </a> 
+        <h3 class="zoomLink"> 
+          <a href="https://www.geeksforgeeks.org/can-a-fraction-be-negative/"> 
+            Can fractions be Negative? 
+          </a> 
         </h3>
 
         <br>
@@ -138,17 +140,17 @@ include '../../res/header.php';
         </p>
 
         <br>
-        <h3> 
-            <a href="https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations"> 
-              Link - Khan Academy - Forms of Linear Equations 
-            </a> 
+        <h3 class="zoomLink"> 
+          <a href="https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations"> 
+            Khan Academy - Forms of Linear Equations 
+          </a> 
         </h3>
 
         <br>
-        <h3> 
-            <a href="https://www.khanacademy.org/math/trigonometry"> 
-              Link - Khan Academy - Trigonometry
-            </a> 
+        <h3 class="zoomLink"> 
+          <a href="https://www.khanacademy.org/math/trigonometry"> 
+            Khan Academy - Trigonometry
+          </a> 
         </h3>
 
         
@@ -168,10 +170,10 @@ include '../../res/header.php';
         </p>
 
         <br>
-        <h3> 
-            <a href="https://www.khanacademy.org/math/algebra-home"> 
-              Link - Khan Academy - All Algebra
-            </a> 
+        <h3 class="zoomLink"> 
+          <a href="https://www.khanacademy.org/math/algebra-home"> 
+            Khan Academy - All Algebra
+          </a> 
         </h3>
         <br>
 

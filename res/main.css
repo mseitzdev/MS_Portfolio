@@ -67,11 +67,17 @@
 /*CSS for our links*/
 a{
   color: goldenrod;
+  text-decoration: none;
 }
 /*Changing link appearance on hover */
 a:hover{
   color: lightgoldenrodyellow;
   cursor: pointer;
+}
+/*This won't work on a:hover, add class to wrapper*/
+.zoomLink:hover{
+  transition: 0.25s;
+  transform: scale(1.05);
 }
 
 /* This is the formatting for our header, at the top of the page. */
