@@ -24,43 +24,41 @@ include '../res/header.php';
     <div class="mainbox">
 
         <h1 class="pagetitle">About Me</h1><br>
+
+        <!-- Pick an image of me and put it here!-->
         
         <p class="paragraphStandard">
 
             My name is Mitchell Seitz, and I'm a third-year Comp Sci student at Thompson Rivers University.
             I've been studying online for my University education, and so I guess I consider myself 
-            a self-taught developer as well. I've also worked for years as a handyman and helped start 
-            and run a nonprofit dedicated to raising support for youth in and 
-            from the foster care system. My journey to this point has been fairly unique, so I might as well tell you 
+            a self-taught developer as well. I've run a small business as a handyman and am a co-founder of
+            a nonprofit dedicated to supporting youth in and 
+            from the foster care system. My journey here has been somewhat unique, so I might as well tell you 
             a bit about myself so you can understand how I got here. 
             <br><br> 
             During High School, I ended up homeless and then in the 
-            foster care system. In order to stay in school during this time, I switched to a 
-            school that only had space available in a trades co-op program. It was here I learned the skills 
-            that kept me going throughout young adulthood.
+            foster care system. In order to stay in school, I switched to a 
+            school that only had space available in a trades co-op program.
             I graduated at 17, and at 18 I registered a business and began working 
-            as a handyman to support myself. I also worked service jobs, landscaping, 
+            as a handyman. I also worked service jobs, landscaping, 
             demolition, construction, property maintenance, and other jobs to make ends meet. 
             <br><br>
-            After high school, I still found myself curious, and started spending my spare time learning anything 
-            I could find. I started by 
-            bringing home university textbooks left by graduates in some apartment buildings I worked in.
+            After graduating, I found myself curious, and started self-teaching things I missed in school. 
+            Initially, I brought home university textbooks left by graduates in some apartment buildings I worked in.
             I was interested in a variety of things, like math, neuroscience, 
             and human biology. Later, my curiosity took a more technical focus, and 
-            I started doing brilliant.org 
-            problems on the bus, using the wolfram problem generators to test myself, spent breaks at 
-            work reading some of the textbooks I found and practicing math I didn't learn in school. 
-            I also learned some python, 
-            started messing around with an arduino and raspberry pi, and dabbled in languages. 
+            I spent free time using brilliant.org on the bus, using the wolfram problem generators, and spent my breaks at 
+            work reading some of the textbooks I found. 
+            I also learned some python, started messing around with an arduino and raspberry pi, and dabbled in languages. 
             <br><br>
-            At some point, I felt like I had caught up on learning I didn't really get a chance to do in High School, and when I 
+            Eventually, I felt like I had caught up on learning, and when I 
             was 19 I decided I wanted to pursue university education. I enrolled with Athabasca 
-            University, which has open admission for online courses. Because AU courses transfer well to pretty much any 
-            university in Canada, I took this route to avoid having to do high school pre-requisites and get some uni done.
+            University, which has open admission for online courses that transfer well to pretty much any 
+            university in Canada. The flexibility was nice, but truthfully I took this route to avoid doing pre-requisites.
             After a few courses, I realized that I was most interested in computer science and decided 
             to pursue this path. I completed twelve courses with a 3.71/4.00 GPA,
-            including courses covering Data Structures & Algorithms, Calculus, Stats, 
-            Programming in Java, C++, Web Development and a few others.   
+            including Data Structures & Algorithms, Calculus, Stats, 
+            Programming in Java, C++, and a few others.   
             <br><br>
             
         </p>

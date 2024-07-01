@@ -62,7 +62,7 @@ Credit to user: R. Laudanski, https://codepen.io/remilaudanski
 
 /*Slide out menu formatting when menu is open*/ 
 #touch:checked + .slide {
-	height: 350px;
+	height: 400px;
 } 
 
 </style>
