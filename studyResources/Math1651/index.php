@@ -56,7 +56,7 @@ include '../../res/header.php';
             studied during this course as a student, or from my earlier curiosity,
             and hope that they can benefit you as much as they have benefitted 
             me. I have sorted them into general resources and then for each 
-            module and topic of our program.
+            module of our program.
 
         </p>
 
@@ -175,6 +175,82 @@ include '../../res/header.php';
             Khan Academy - All Algebra
           </a> 
         </h3>
+        <br>
+
+        <h2 style="margin-top: 10px;"> General Advice </h2>
+        <br>
+        
+        <p class="paragraphStandard">
+
+           As a student in this course, my advice for others studying are: 
+           <br> 
+
+           <br>
+           <b> 1 - Practice: </b> Make sure to do lots of extra practice on anything 
+           you find yourself not doing well consistently. Use the study 
+           resources in this guide to find places to practice concepts from this course, 
+           and search the internet for more if you find yourself struggling with something
+           not covered here or in the course material. The practice questions in this course 
+           do a good job of teaching concepts, but repetition is how you can get the best 
+           results when problem solving. 
+
+           <br><br>
+           <b> 2 - Graphing & Computational programs: </b> Don't hesitate to make use 
+           of math-specific programs to suit your needs. Some examples of ones I like 
+           to use are: 
+
+           <br><br>
+           <a href="https://www.wolframalpha.com/">Wolfram Alpha (link)</a> is an 
+           amazing resource for graphing out examples, calculating solutions, and asking 
+           questions. The free features are good enough for me most of the time, and I use 
+           it to get extra practice out of the textbook by having it find answers to 
+           questions where no answer is given, as well as 
+           <a href="https://www.wolframalpha.com/problem-generator/"> 
+           generating practice problems (link)
+           </a> 
+           and graphing out things I wonder about. Check it out, play with it, and 
+           if you get something wrong, it should be able to solve it for you and show 
+           you how it did it.
+           <br><br>
+
+           <a href="https://www.symbolab.com/">Symbolab (link)</a> is similar to 
+           wolfram alpha, and contains some generators for practice problem types 
+           that wolfram alpha does not have, like vector angle and projections. Check 
+           this one out too, because between sybmolab and wolfram alpha you should have
+           many bases covered. 
+           <br><br>
+
+           <a href="https://www.desmos.com/calculator">Desmos (link)</a> is a graphing 
+           calculator, right in your browser. It isn't as useful in this course as it 
+           would be in calculus, but it's good to know. 
+
+           <br><br>
+           <b> 3 - Glossary: </b> Make sure to follow the advice in the study guide and 
+           take notes, on paper or on the computer, recording all relevant keywords
+           and concepts in this course in the way that they make 
+           the most sense to you. This is important to have because the modules are mostly 
+           disconnected and it is easy to forget things you aren't regularly using. Make 
+           your glossary/notes and go over them regularly. I like to color-code my notes, 
+           as this helps me read and understand easier. Here's an example: 
+           <br><br>
+        </p>
+
+        <div style="text-align: center;">
+            <img src="vectorNote.png" alt="A page of my notes on vectors." style="max-width: 70%;">
+        </div>
+           
+        <p class="paragraphStandard">
+
+           <br><br>
+           <b> 4 - Talk to others!: </b> Don't be afraid to ask for help from friends, 
+           fellow students, faculty, or anyone else who may know useful things. I don't
+           have this luxury because I am studying online, but to those that do, do 
+           not squander it! There's a reason we can use language, and it can make things much 
+           easier to understand. 
+
+        </p>
+
+        <h2 style="margin-top: 10px;"> Navigation </h2>
         <br>
 
         <p style="font-size: 19px; ">

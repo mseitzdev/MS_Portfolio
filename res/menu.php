@@ -133,25 +133,27 @@ created by Mitchell Seitz, using above material, in march 2024.
   <!-- This is the home button, which will show the home content. -->
   <a href="/index.php">Home</a>
 
-  <!-- Android apps dropdown -->
-  <button class="dropdown-btn">Android Apps ▼</button>
-  <div class="dropdown-container">
-      <a href="/androidApps/busSimulator.php" class="dropdown-element">Transit System Simulator</a> 
-      <a href="/androidApps/androidCalc.php" class="dropdown-element">Scientific Calculator</a> 
-  </div>
-
   <!-- Website Development Dropdown -->
   <button class="dropdown-btn">Web Development ▼</button>
   <div class="dropdown-container">
       <a href="/index.php" class="dropdown-element">Coming Soon!</a> 
   </div>
 
-    <!-- Study Resources Dropdowns -->
-  <button class="dropdown-btn">Study Resources ▼</button>
+  <!-- Android apps dropdown -->
+  <button class="dropdown-btn">Android Apps ▼</button>
   <div class="dropdown-container">
+      <a href="/androidApps/index.php" class="dropdown-element">Overview</a> 
+      <a href="/androidApps/busSimulator.php" class="dropdown-element">Transit System Simulator</a> 
+      <a href="/androidApps/androidCalc.php" class="dropdown-element">Scientific Calculator</a> 
+  </div>
+
+  <!-- Study Resources Dropdowns -->
+  <button class="dropdown-btn">Study Resources ▼</button>
+   <!-- Shrinking the inner dropdown with transform for visible separation -->
+  <div class="dropdown-container" style="transform: scale(0.9);">
 
       <!-- Inner menus are incased in small tags to show differences -->
-      <button class="dropdown-btn">Math 1651 <small>▽</small> </button>
+      <button class="dropdown-btn" >Math 1651 <small>▽</small> </button>
       <div class="dropdown-container">
         <a href="/studyResources/Math1651/index.php" class="dropdown-element"> Overview </a> 
         <a href="/studyResources/Math1651/module1.php" class="dropdown-element"> Module 1 - Vectors </a> 
@@ -164,6 +166,7 @@ created by Mitchell Seitz, using above material, in march 2024.
       </div>
 
   </div>
+
 
   <!-- About me page link -->
   <a href="/about/index.php">About Me</a>

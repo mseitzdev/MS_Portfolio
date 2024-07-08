@@ -19,10 +19,15 @@ include '../res/header.php';
    <!-- Home page -->
     <div class="mainbox">
 
-        <h1 class="pagetitle">Scientific Calculator</h1><br>
+        <h1 class="pagetitle">Scientific Calculator</h1>
         
         <p>
-            Coming Soon!
+            Page coming soon, 
+
+            <a href="https://github.com/mseitz1998/Scientific_Calculator"> 
+            See the code on my Github!
+            </a>
+
         </p>
 
     </div>

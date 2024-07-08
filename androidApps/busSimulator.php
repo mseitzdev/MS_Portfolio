@@ -19,10 +19,15 @@ include '../res/header.php';
    <!-- Home page -->
     <div class="mainbox">
 
-        <h1 class="pagetitle">Transit System Simulator</h1><br>
+        <h1 class="pagetitle">Transit System Simulator</h1>
         
         <p>
-            Coming Soon!
+            Page coming soon, 
+
+            <a href="https://github.com/mseitz1998/Transit_Simulator"> 
+            See the code on my Github!
+            </a>
+
         </p>
 
     </div>
