@@ -136,7 +136,9 @@ created by Mitchell Seitz, using above material, in march 2024.
   <!-- Website Development Dropdown -->
   <button class="dropdown-btn">Web Development ▼</button>
   <div class="dropdown-container">
-      <a href="/index.php" class="dropdown-element">Coming Soon!</a> 
+      <a href="/webDevelopment/index.php" class="dropdown-element">Overview</a>
+      <a href="/webDevelopment/CSS_Store.php" class="dropdown-element">CompSci Student Store</a>  
+      <a href="/webDevelopment/mseitzDotDev.php" class="dropdown-element">Developer Portfolio</a>  
   </div>
 
   <!-- Android apps dropdown -->

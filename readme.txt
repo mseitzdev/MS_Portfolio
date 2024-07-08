@@ -22,14 +22,14 @@ Background Behavior:
    - Clear browser cache and hit refresh.
 _______________________________________________________________________
 
-Desired Features: 
+To Do: 
 
 - Add website display settings, first add an option to disable/change 
 the background, then maybe a light mode. Use cookies/sessions + PHP. 
 
 - Need to add different titles for each page, PHP allows this easy. 
 
-- Add website Logo - Shows up in the tabs on browser
+- Add small ver website Logo - Shows up in the tabs on browser.
 _______________________________________________________________________
 
 Bugs & Issues: 
@@ -40,8 +40,6 @@ Bugs & Issues:
 - For some reason, the header logo is in a slightly different position 
   on the filled pages (about.php, MATH1651 overview) than emptier ones. 
   Cause unknown. Tested and found on Chrome/Safari/Firefox on MacOS. 
-
-- Need to add different titles for each page, PHP allows this easy. 
 _______________________________________________________________________
 
 Borrowed Code and Inspirations:
