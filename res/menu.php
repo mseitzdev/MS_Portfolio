@@ -172,6 +172,13 @@ created by Mitchell Seitz, using above material, in march 2024.
 
   <!-- About me page link -->
   <a href="/about/index.php">About Me</a>
+
+  <!-- 
+  Putting some breaks at the bottom so the about me 
+  link stays above the bottom of the 
+  menu when many links are visible
+  -->
+  <br><br>
   
 </div>
 
