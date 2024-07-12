@@ -21,12 +21,6 @@ include '../res/header.php';
     <div class="mainbox">
 
         <h1 class="pagetitle"> Web Development </h1>
-
-        <div style="text-align: center;">
-            <img src="codeExample.png" alt="Example of code I wrote" style="max-width: 90%; max-height: 450px">
-            <h5> Some PHP and SQL from one of my projects. </a> </h5>
-        </div>
-        <br>
         
         <p class="paragraphStandard">
 
@@ -39,26 +33,36 @@ include '../res/header.php';
             minecraft server I played on with my friends. I lost that 
             code too, but I felt cool telling people I had my own 
             website in high school and showing them what I made. 
-            Unfortunately, my life took some 
+            My life took some 
             interesting turns from then till the time I was an adult, 
             and I didn't get a chance to re-visit web development till I
             was in university.
-            <br><br>
-            Once I was there, though, I found myself making websites 
-            for courses, my favorite project being the 
+        </p>
+
+        <br>
+        <div style="text-align: center;">
+            <img src="codeExample.png" alt="Example of code I wrote" style="max-width: 90%; max-height: 450px">
+            <h5> Some PHP and SQL from one of my CSS store. </a> </h5>
+        </div>
+        <br>
+
+         <p class="paragraphStandard">
+
+            Once I was in uni, though, I found myself making websites 
+            for courses, with my first real website being the 
             <a href="CSS_Store.php"> Computer Science Student Store,</a>
             Which is a full-stack LAMP website functioning as a simulated
-            store for computer science students. After completing the web dev 
-            course, I decided to go on and create 
-            <a href="mseitzDotDev.php"> This Portfolio Website, </a> which has 
-            less database functionality than the student store but has a 
-            design that I much prefer, as well as giving me a place to host 
-            and explain my projects and myself.
+            store for computer science students. I got an A+ in the course, 
+            but the CSStore is still a very basic and rough project. 
             <br><br>
-            I'm looking forward to getting more chances at web development through 
-            school, personal projects, and work, so stay tuned to see what else 
-            I make!
-
+            Fortunately, 
+            <a href="mseitzDotDev.php"> This Portfolio </a> gave
+            me a chance to improve some of those skills, 
+            and I based this portfolion on the CSStore and removed redundant CSS, cleaned things 
+            up a lot, and made the design much more appealing. Unfortunately, 
+            I didn't see much of a use for a database or much JS in this portfolio, so 
+            I'm waiting until I take the next two web dev related courses to 
+            improve those skills - Stay tuned!
             
         </p>
 

@@ -44,7 +44,7 @@ echo $document_root;
 <body>
 
 <!-- the header section -->
-<header style="display: flex;">
+<header style="display: flex; z-index: 1;">
 
    <!-- menu button --> 
    <?php include $document_root . '/res/menu.php'; ?> 
