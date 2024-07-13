@@ -105,7 +105,7 @@ include '../res/header.php';
         <br>
 
         <h1> 
-            <a href="https://github.com/mseitz1998/CSS_Store"> 
+            <a href="https://github.com/mseitzdev/CSS_Store"> 
                 See the source code on Github!
             </a>
         </h1>

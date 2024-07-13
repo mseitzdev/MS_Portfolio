@@ -26,7 +26,7 @@ include '../res/header.php';
         <p>
             Page coming soon, 
 
-            <a href="https://github.com/mseitz1998/MS_Portfolio"> 
+            <a href="https://github.com/mseitzdev/MS_Portfolio"> 
             See the code on my Github!
             </a>
 

@@ -24,7 +24,7 @@ include '../res/header.php';
         <p>
             Page coming soon, 
 
-            <a href="https://github.com/mseitz1998/Transit_Simulator"> 
+            <a href="https://github.com/mseitzdev/Transit_Simulator"> 
             See the code on my Github!
             </a>
 
