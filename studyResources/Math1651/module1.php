@@ -186,9 +186,75 @@ include '../../res/header.php';
 
       <p class="paragraphStandard">
 
-        
+        For this unit, I would recommend doing lots of practice both 
+        in this course and in questions that you generate or 
+        find for yourself. Memorize the formulas in our course text 
+        and understand how 
+        you can find alternate ways to solve the problems. 
 
-      </p><br>
+      </p>
+      <br>
+
+      <h3 class="zoomLink"> 
+        <a href="https://www.youtube.com/watch?v=K7_5Ok2Atcg&ab_channel=Engineer4Free"> 
+           Write the equation of a line in general form, vector form, or parametric form - Engineer4Free
+        </a> 
+      </h3>
+      <br>
+
+      <h3 class="zoomLink"> 
+        <a href="https://people.math.harvard.edu/~wboney/fall15/LinesPlanes.pdf"> 
+          Lines and Planes in R3 - Harvard
+        </a> 
+      </h3>
+      <br>
+
+      <h3 class="zoomLink"> 
+        <a href="https://tutorial.math.lamar.edu/classes/calciii/eqnsofplanes.aspx"> 
+          Equations of Planes - Paul's Online Notes
+        </a> 
+      </h3>
+      <br>
+
+      <h3 class="zoomLink"> 
+        <a href="https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/normal-vector-from-plane-equation"> 
+          Normal Vector From Plane Equation - Khan Academy 
+        </a> 
+      </h3>
+      <br>
+
+      <h3 class="zoomLink"> 
+        <a href="https://www.nagwa.com/en/explainers/373101390857/"> 
+          Lesson Explainer: Equation of a Plane: Vector, Scalar, and General Forms - Nagwa
+        </a> 
+      </h3>
+
+      <br><h2> Topic 4: Cross Product </h2><br>
+
+      <p class="paragraphStandard">
+
+        While searching for resources relating to the cross product, 
+        I found that the cross product concept can extend far beyond 
+        the contents of this course. Fortunately, this course 
+        only seems to cover the cross product in R3, which is relatively 
+        simple. I found the course text to be mostly sufficient for this one, 
+        but here's some other resources I found: 
+
+      </p>
+      <br>
+
+      <h3 class="zoomLink"> 
+        <a href="https://linearalgebra.math.umanitoba.ca/math1220/CrossProduct.html"> 
+          Cross Product - University of Manitoba 
+        </a> 
+      </h3>
+      <br>
+
+      <h3 class="zoomLink"> 
+        <a href="https://www.wolframalpha.com/input?i=cross+product+calculator&assumption=%7B%22F%22%2C+%22CrossProduct%22%2C+%22crossVector1%22%7D+-%3E%22%7B0%2C+1%2C1%7D%22&assumption=%7B%22F%22%2C+%22CrossProduct%22%2C+%22crossVector2%22%7D+-%3E%22%7B3%2C-1%2C2%7D%22"> 
+          Cross product calculator - Wolfram Alpha
+        </a> 
+      </h3>
 
       <br><h2> Practice Question Generators </h2><br>
 

@@ -59,11 +59,16 @@ include '../res/header.php';
             from a database, making it available for the user to search through 
             and view, user account creation, editing, and deletion, 
             a shopping cart, order placement, and the viewing of previous orders.
-            Relevant information is stored in the SQL database. I attempted 
-            to develop this website adhering as closely as possible to the 
-            MVC/Model-View-Controller model, and most of the processing 
-            takes place in the page index.php, with other php functions 
-            loaded in to carry out tasks. View elements for different 
+            Relevant information is stored in the SQL database. 
+            <br><br>
+
+            Keeping with directions given in the course, 
+            I developed this website adhering to a interperetation of the 
+            <a href="https://www.codecademy.com/article/mvc">  
+                MVC/Model-View-Controller model.
+            </a>
+            The page index.php forms the controller, with other php functions 
+            loaded in from data/functions.php. View elements for different 
             sections of the website are loaded into the body of index.php 
             as needed, and are located in the views folder of the program.
             The website uses session info to track the user, and will display
@@ -71,35 +76,49 @@ include '../res/header.php';
             pages depending on if the user is logged in or not.
             <br><br>
             This program design was fun to do and allowed me to score full 
-            marks from my professor, but the program has only 1 URL
-            that actually displays anything, Compsci_Student_Store/index.php,
-            and relies on form input to navigate around the site and show 
-            different things. A side effect of this is the forwards/back buttons 
+            marks from my professor, as MVC adherence was something we were marked on,
+            But the website is very inconvenient to use compared to more traditional designs. 
+            An example of this is that the forwards/back buttons 
             in your browser don't work, and you can't send a person to a product
-            page or other page by giving them a URL for that specific area of the site, 
-            at least to my knowledge at the time of writing this. In addition, 
-            the UI is pretty simple, and the CSS has a lot of messy redundancies. 
-            Although it worked fine for a school project, I knew I could do better. 
+            page or other page by giving them a URL for that specific area of the site. In addition, 
+            the UI is pretty simple, and the CSS needs some optimization. To take this from 
+            school project territory into the real world, I'd need to do solid work to make this program 
+            less proof-of-concept and more robust for users and developers working on it. 
+            <br><br>
+            Although this worked fine for a school project, and it got me the high grades I designed 
+            it to get, I knew I could do better, so I made sure 
+            to improve the design and clean up the CSS when using this project as the base of my 
+            <a href="mseitzDotDev.php"> Developer Portfolio</a>.
 
-            I remedied these issues in 
-            <a href="mseitzDotDev.php"> my portfolio, </a>
-            the site you are reading this on and my personal 
-            project based on the CSStore code. 
-            <br><br>
-            If I were going to try and use this as an actual store, I would:
+        </p>
+
+        <br>
+        <h2 class="pagetitle"> What could be improved here?</h2>
+        <br>
+
+        <p class="paragraphStandard">
+
+            If I were going to continue developing this web store, I would:
             <br>
-            <br>1: Do the above modifications
-            <br>2: Upgrade the database, storing order items away from the order instead of in a string in the order. 
-            <br>3: Add a way to search orders.
-            <br>4: Add admin accounts and an admin interface to modify the site without going into the database and source code. 
-            <br>5: Add a payment method and some kind of order confirmation/shipping system.
-            <br>6: Do a security audit to make sure input is properly sanitized
-            and the program is otherwise secure, including asking more experienced programmers to take a look.
+            <br>1: Undo my crude MVC adherence and turn views into completely separate pages.
+            <br>2: Use the session data to store many things that are currently view element values - such as 
+                   user input in the account information update/creations forms, which get wiped if the user 
+                   inputs one incorrect value.
+            <br>3: Upgrade the database, storing order items away from the order instead of in a string in the order. Add cart 
+                   data and anything else that might be convenient to the user to the database.
+            <br>4: Add a way to search orders.
+            <br>5: Add admin accounts and an admin interface to manage the site without going into the database and source code
+                   directly.
+            <br>6: Add a payment method and some kind of order confirmation/shipping system.
+            <br>7: Do a security audit to make sure input is properly sanitized and the program is otherwise secure.
             <br><br>
-            I don't have any plans on modifying this website for anything further as of right now, but it is
+            I don't have any plans on developin the web store further as of right now, but it is
             good to know what I could improve. To see the explanation I submitted with the project, 
             <a href="https://youtu.be/pZSa_yPSQQQ">watch the video above or click here,</a> and to see
-            the source code and a readme with more detail, click below to see this project on my github!
+            the source code and a readme with more detail, click below to see this project on my github. 
+            <br><br>
+            This portfolio is built using the CSStore as it's prototype, so this is a good example of where 
+            my design and HTML/CSS skills have developed after this prototype. 
 
         </p>
         <br>
