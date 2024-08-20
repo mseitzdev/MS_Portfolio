@@ -23,14 +23,18 @@ include '../res/header.php';
 
         <h1 class="pagetitle"> Developer Portfolio </h1>
         
-        <p>
+        <p class="paragraphStandard">
             Page coming soon, 
 
-            <a href="https://github.com/mseitzdev/MS_Portfolio"> 
-            See the code on my Github!
-            </a>
+            
 
         </p>
+
+        <h1>
+            <a href="https://github.com/mseitzdev/MS_Portfolio"> 
+                See the code on my Github!
+            </a>
+        </h1>
 
     </div>
 
