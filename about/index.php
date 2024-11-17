@@ -13,6 +13,9 @@ etc.
 
 <?php 
 
+//setting the page title
+$pageTitle = "About Me";
+
 //inclding program header, forces secure connection.
 include '../res/header.php'; 
 
@@ -26,7 +29,7 @@ include '../res/header.php';
         <h1 class="pagetitle">About Me</h1>
 
         <div style="text-align: center;">
-            <img src="me.png" alt="A pic of me" style="max-width: 90%; max-height: 550px">
+            <img src="me.png" alt="A pic of me" style="max-width: 90%; max-height: 500px; border-radius: 50%;">
             <h5> Picture of me, taken by <a href="https://vivian-patruno.squarespace.com/"> Vivian Patruno</a> </h5>
         </div>
         <br>
@@ -35,24 +38,24 @@ include '../res/header.php';
 
             My name is Mitchell Seitz, and I'm a third-year Comp Sci student at Thompson Rivers University.
             I've been studying online for my University education, and so I guess I consider myself 
-            a self-taught developer as well. I've run a small business as a handyman and am a co-founder of
-            a nonprofit dedicated to supporting youth in and 
-            from the foster care system. My journey here has been somewhat unique, so I might as well tell you 
-            a bit about myself so you can understand how I got here. 
+            a self-taught developer as well. I've also run a small business as a handyman, and am a co-founder of
+            a nonprofit dedicated to supporting youth in and from the foster care system called Project Outsiders. 
+            My journey here has been somewhat unique, so I might as well tell you a bit about myself so you can understand 
+            how I got here. 
             <br><br> 
             During High School, I ended up homeless and then in the 
             foster care system. In order to stay in school, I switched to a 
             school that only had space available in a trades co-op program.
             I graduated at 17, and at 18 I registered a business and began working 
             as a handyman. I also worked service jobs, landscaping, 
-            demolition, construction, property maintenance, and other jobs to make ends meet. 
+            demolition, construction, property maintenance, and other jobs. 
             <br><br>
             After graduating, I found myself curious, and started self-teaching things I missed in school. 
             Initially, I brought home university textbooks left by graduates in some apartment buildings I worked in.
             I was interested in a variety of things, like math, neuroscience, 
             and human biology. Later, my curiosity took a more technical focus, and 
             I spent free time using brilliant.org on the bus, using the wolfram problem generators, and spent my breaks at 
-            work reading some of the textbooks I found. 
+            work reading some of the textbooks I found and learning math from them.
             I also learned some python, started messing around with an arduino and raspberry pi, and dabbled in languages. 
             <br><br>
             Eventually, I felt like I had caught up on learning, and when I 
@@ -129,7 +132,7 @@ include '../res/header.php';
         <p class="paragraphStandard">
 
             Of course, juggling my small business, Project Outsiders, school, other jobs, and family responsibilities 
-            was a lot, and at some point I had to narrow my activities and focus fully on school. 
+            was a lot, and at some point I had to narrow my activities and focus more on school. 
             I started this by transferring to 
             Thompson Rivers University, and started classes in 2023. I chose TRU because the program structure allows 
             me to take classes online via Open Learning, in person at TRU, or any accredited university in Canada.
@@ -139,14 +142,28 @@ include '../res/header.php';
             Plus, I can always take classes in person anywhere I want, which is an amazing plus.
             <br><br>
             As of Summer 2024, I stepped back a lot from activism and working as a handyman, 
-            and have been focusing on portfolio building, personal projects, starting a business as a freelance 
-            dev, and getting ready to study full-time until I am done my degree. I'll be adding more to this 
+            and have been focusing on portfolio building, personal projects, preparing to do some freelance development, 
+            and getting ready to study full-time until I am done my degree. I'll be adding more to this 
             portfolio shortly, so stay tuned!
 
         </p>
 
         <br>
         <h1 class="pagetitle">Life still in progress! Stay tuned for more :)</h1><br>
+
+        <!-- Social Media Links-->
+        <?php include $document_root . '/res/socialLinks.php' ; ?>
+        <p class="paragraphStandard">
+            If you want to see some of my projects, check out the menu at the 
+            top left or head to 
+            <a href="https://github.com/mseitzdev">My Github</a>,
+            and if you'd like to connect then head over to 
+            <a href="https://www.linkedin.com/in/mitchell-s-888526b0/"> My Linkedin </a>
+            or reach me via 
+            <a href="mailto:mseitz@mseitz.dev">Email</a> 
+            at 
+            <b> mseitz@mseitz.dev <b>.
+        </p>
 
     </div>
 

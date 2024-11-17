@@ -9,6 +9,8 @@ Programmed by Mitchell Seitz, March 14 2024.
 
 <?php 
 
+//setting the page title 
+$pageTitle = "Android Applications";
 
 //inclding program header, forces secure connection.
 include '../res/header.php'; 
@@ -55,6 +57,9 @@ include '../res/header.php';
             been talking with a friend about some ideas for an app 
             that would be useful for frankenphone users to analyze 
             and manage non-stock battery configurations on their phones. 
+            We're both a little busy as of late, but that's likely 
+            how I'll dip back into android development if I ever return.
+
             
         </p>
 

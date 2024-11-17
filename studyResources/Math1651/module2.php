@@ -11,6 +11,9 @@ Programmed by Mitchell Seitz, March Jun 27 2024.
 
 <?php 
 
+//setting the page title 
+$pageTitle = "MATH 1651 - Module 2 - Matrices";
+
 //inclding program header, forces secure connection.
 include '../../res/header.php'; 
 

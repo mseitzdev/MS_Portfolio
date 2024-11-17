@@ -31,7 +31,11 @@ echo $document_root;
 <!-- the head section -->
 <head>
 
-    <title> Mitchell Seitz Portfolio</title>
+    <!-- Tab icon -->
+    <link rel="icon" type="image/x-icon" href="/res/icon.ico">
+    
+    <!-- Generating Page title -->
+    <title><?php echo $pageTitle; ?> - Mitchell Seitz Portfolio </title>
 
     <style>
         /*Linking in the main.css style file for non - header portions*/

@@ -9,6 +9,8 @@ Programmed by Mitchell Seitz, March 14 2024.
 
 <?php 
 
+//setting the page title 
+$pageTitle = "Web Development";
 
 //inclding program header, forces secure connection.
 include '../res/header.php'; 

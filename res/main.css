@@ -64,6 +64,21 @@
   text-align: left;
 }
 
+/* Social Media Link Picture formatting */
+.socialLinkPic{
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  max-width: 75px; 
+  max-height: 75px;
+}
+.socialLinkPic:hover{
+  transition: 0.25s;
+  transform: scale(1.15);
+  cursor: pointer;
+}
+
 /*CSS for our links*/
 a{
   color: goldenrod;
