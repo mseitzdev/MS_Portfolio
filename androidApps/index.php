@@ -36,7 +36,7 @@ include '../res/header.php';
 
             and the 
 
-            <a href="busSimulator"> Transit System Simulator </a>
+            <a href="busSimulator.php"> Transit System Simulator </a>
 
             apps. 
 
