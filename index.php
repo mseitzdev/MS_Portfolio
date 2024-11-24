@@ -45,7 +45,7 @@ include 'res/header.php';
             or reach me via 
             <a href="mailto:mseitz@mseitz.dev">Email</a> 
             at 
-            <b> mseitz@mseitz.dev </b>.
+            <b> mseitz@mseitz.dev</b>
 
         </p>
 

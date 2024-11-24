@@ -42,19 +42,22 @@ include '../res/header.php';
             code as posssible. After getting things cleaned up, I got to work testing 
             across different browsers, operating systems, and devices. During this 
             process, I learned some tricks to make sure websites work on different 
-            platforms - use images rather than text for UI symbols, keep animations 
+            platforms - use images rather than text for UI elements, keep animations 
             and interactions simple, don't rely too much on CSS for image manipulation, 
-            etc. 
+            etc. I began to feel much more comfortable with UI design throughout this 
+            process. 
             <br><br>
             Then, to add some flair to this website, I used 
             <a href="https://vincentgarreau.com/particles.js/">Particles.js</a>
-            to create the background, customixing it to fit the color scheme and 
-            altering element transparency etc to create what I found to be a nice 
-            looking interface. 
+            to create the background, customizing it to fit the color scheme. After 
+            that, I started diving through the CSS of the site to get the color scheme
+            and element transparency right, before using image editors to get the logo, 
+            menu button, and other elements to a place I felt looked nice across
+            devices and browsers.
             <br><br>
             Once I was satisfied, I began filling in the rest of the web pages with 
             content, as well as adding things like page titles, Icon, social media
-            and contact links, etc. 
+            and contact links, and more.
             <br><br>
             This project will continuously evolve as time goes on, so stay tuned!
             <br><br>
