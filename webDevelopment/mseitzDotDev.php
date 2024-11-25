@@ -1,6 +1,6 @@
 <!-- 
 
-/androidApps/mseitzDotDev.php
+/webDevelopment/mseitzDotDev.php
 
 This is the file explaining my first real 
 website, the computer science student store.

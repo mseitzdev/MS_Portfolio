@@ -31,15 +31,10 @@ include '../res/header.php';
             where I wrote a variety of apps under the instruction of 
             my professor, Musfiq Rahman. My two favorite app projects 
             from this course are my 
-
-            <a href="androidCalc.php"> Scientific Calculator </a>
-
-            and the 
-
             <a href="busSimulator.php"> Transit System Simulator </a>
-
-            apps. 
-
+            , which was my final project in the course, and the
+            <a href="androidCalc.php"> Scientific Calculator</a>
+            , which was my first real GUI program. 
             With my professor's permission, I am showing you these 
             programs here.
             <br><br>

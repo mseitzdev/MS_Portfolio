@@ -1,6 +1,6 @@
 <!-- 
 
-/androidApps/webDevelopment.php , the entry page for my 
+/webDevelopment/index.php , the entry page for my 
 web development projects folder
 
 Programmed by Mitchell Seitz, March 14 2024. 
@@ -26,7 +26,8 @@ include '../res/header.php';
         
         <p class="paragraphStandard">
 
-            I still remember my first website from fifth grade. I made some 
+            I still remember my first time trying web development. I 
+            was in fifth grade, and I made some 
             kind of tan-color abomination of a website teaching 
             the basics of HTML and CSS. Afterwards, I made another 
             basic website in my early teens, hosted on the same URL as a 
@@ -57,11 +58,26 @@ include '../res/header.php';
             <br><br>
             Fortunately, 
             <a href="mseitzDotDev.php"> This Portfolio </a> gave
-            me a chance to improve some of those skills, 
-            and I based this portfolio on on the CSStore, cleaned things 
-            up a lot, and made the design much more appealing. Unfortunately, 
-            I didn't see much of a use for a database or much JS in this portfolio, so 
-            for now I'll have improving those skills on my to-do list. Stay tuned!
+            me a chance to improve some of those skills. 
+            I based this portfolio on on the CSStore, cleaned things 
+            up a lot, and made the design much more appealing. This was 
+            a good chance to work on my front-end design skills, and I was 
+            able to really improve my grasp of CSS by spending some time 
+            here and there working on and experimenting with the interface.
+            <br><br>
+            The next step for my web development journey came in the form 
+            of a take-home project I did while interviewing for a software 
+            developer internship. I was tasked with designing a 
+            <a href="libraryProject.php">Full-Stack Library Website</a> 
+            capable of reading books from a database, sorting them 
+            by various means, and adding new books to the database. This 
+            was much simpler than the previous projects I've done, and only 
+            took me a few hours. 
+            <br><br>
+            Building that library site gave me the urge to fully dive in and 
+            make a fully production-qualtiy full-stack website better than 
+            anything I've made so far. If I get the time, that's next on 
+            my to-do list. 
             
         </p>
 

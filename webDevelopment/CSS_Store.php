@@ -1,6 +1,6 @@
 <!-- 
 
-/androidApps/CSS_Store.php
+/webDevelopment/CSS_Store.php
 
 This is the file explaining my first real 
 website, the computer science student store.
@@ -25,6 +25,7 @@ include '../res/header.php';
     <div class="mainbox">
 
         <h1 class="pagetitle"> Computer Science Student Store</h1>
+        <br>
         
         <!-- Youtube video -->
         <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; z-index:0;">
@@ -114,13 +115,17 @@ include '../res/header.php';
             <br>6: Add a payment method and some kind of order confirmation/shipping system.
             <br>7: Do a security audit to make sure input is properly sanitized and the program is otherwise secure.
             <br><br>
-            I don't have any plans on developin the web store further as of right now, but it is
-            good to know what I could improve. To see the explanation I submitted with the project, 
-            <a href="https://youtu.be/pZSa_yPSQQQ">watch the video above or click here,</a> and to see
-            the source code and a readme with more detail, click below to see this project on my github. 
+            To see the explanation I submitted with the project, watch the video above or on
+            <a href="https://youtu.be/pZSa_yPSQQQ"> YouTube,</a> and to see
+            the source code and a readme with more detail, 
+            <a href="https://github.com/mseitzdev/CSS_Store"> check it out on my Github.</a>
             <br><br>
-            This portfolio is built using the CSStore as it's prototype, so this is a good example of where 
-            my design and HTML/CSS skills have developed after this prototype. 
+            <a href="mseitzDotDev.php">This Portfolio</a>
+            is built using the CSStore as it's prototype, so this is a good example of where 
+            my design and HTML/CSS skills have developed after this project. The next step after that was building a 
+            <a href="libraryProject.php">Library Website</a> 
+            for a take-home coding project, and I'm going to be doing more full-stack development in the 
+            future.
 
         </p>
         <br>

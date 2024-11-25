@@ -85,7 +85,10 @@ created by Mitchell Seitz, using above material, in march 2024.
 /* Giving the dropdown elements different styling*/
 .dropdown-element{
   font-size: 20px;
-  color: gold;
+  color: #EAD079 !important;
+}
+.dropdown-element:hover{
+  color: lightgoldenrodyellow !important;
 }
 
 /* close button formatting */
@@ -139,6 +142,7 @@ created by Mitchell Seitz, using above material, in march 2024.
       <a href="/webDevelopment/index.php" class="dropdown-element">Overview</a>
       <a href="/webDevelopment/CSS_Store.php" class="dropdown-element">CompSci Student Store</a>  
       <a href="/webDevelopment/mseitzDotDev.php" class="dropdown-element">Developer Portfolio</a>  
+      <a href="/webDevelopment/libraryProject.php" class="dropdown-element">Library Project</a>
   </div>
 
   <!-- Android apps dropdown -->
