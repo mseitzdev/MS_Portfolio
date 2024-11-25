@@ -48,7 +48,7 @@ include '../res/header.php';
             development compared to where I started.
             <br><br>
             It's a combination of the cleaned-up code and design of this portfolio 
-            mixed with the full-stack functionality like the CSS Store. Although I still wouldn't consider 
+            mixed with full-stack functionality like the CSS Store. Although I still wouldn't consider 
             this project code to be production quality due to the lack of input sanitation and validation testing, 
             I enjoyed making it because it gave me a chance to mix the improved UI development skills I've 
             developed making this portfolio with the takeaway lessons & LAMP stack experience I got from the
