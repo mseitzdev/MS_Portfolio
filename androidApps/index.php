@@ -54,7 +54,6 @@ include '../res/header.php';
             and manage non-stock battery configurations on their phones. 
             We're both a little busy as of late, but that's likely 
             how I'll dip back into android development if I ever return.
-
             
         </p>
 

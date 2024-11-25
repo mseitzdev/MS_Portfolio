@@ -39,7 +39,7 @@ include '../res/header.php';
             <br><br>
             There isn't much to say about this one - It's a scientific calculator with a light/dark mode. 
             It shows the completed operations at the top, followed buy the latest value, and has trig 
-            functions, deg/rad, pos/ negative numbers, etc.
+            functions, deg/rad, pos/ negative numbers, etc. I made this app in Android Studio using Java.
             <br><br>
         </p>
 
@@ -48,18 +48,18 @@ include '../res/header.php';
 
         <p class="paragraphStandard">
             
-            0: The user can toggle system states using the light/dark button, rad/deg button, or store a value M 
+            The user can toggle system states using the light/dark button, rad/deg button, or store a value M 
             for later use using the set M button. The listener functions for these in MainActivity.java set the 
             relevant variables and update the view as needed.
             <br><br>
-            1: The user puts their input in using the number buttons, the trig functions buttons, pi or saved value
+            The user puts their input in using the number buttons, the trig functions buttons, pi or saved value
             buttons, decimal buttons, etc, and the program stores the input as a string that is added to for each 
             input given by the listeners for these buttons.
             <br><br>
             The clear button removes current value and function input, and the clear all resets the whole equation. 
             The +/- button can be used to change the sign of the input.
             <br><br>
-            2: When the user clicks equals or a button for another operation, the program checks if the input is valid, 
+            When the user clicks equals or a button for another operation, the program checks if the input is valid, 
             and if it is, it calls the evaluate() method, which applies the necessary operation and displays the output.
             <br><br>
 

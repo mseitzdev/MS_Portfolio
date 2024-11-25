@@ -41,7 +41,7 @@ include '../res/header.php';
             This app is intended to function as a simulated transit system and bus tracker,
             and was my final project for COMP 2161 at Thompson Rivers University. I'm sharing 
             it here with the permission of my course professor, Musfiq Rahman. I created this 
-            application in Android Studio, and 
+            application in Android Studio using java, and 
             <a href="https://github.com/mseitzdev/Transit_Simulator"> you can click here to 
             see the source code, documentation, and .apk file download on my GitHub.</a>
             <br><br>
