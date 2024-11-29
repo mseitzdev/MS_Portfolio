@@ -27,9 +27,6 @@ To Do:
 - Add website display settings, first add an option to disable/change 
 the background, then maybe a light mode. Use cookies/sessions + PHP. 
 
-- Need to add different titles for each page, PHP allows this easy. 
-
-- Add small ver website Logo - Shows up in the tabs on browser.
 _______________________________________________________________________
 
 Bugs & Issues: 
