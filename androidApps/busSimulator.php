@@ -35,16 +35,25 @@ include '../res/header.php';
             referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
             </iframe>
         </div>
-        <br>
+       
+       <br><br>
         
         <p class="paragraphStandard">
             This app is intended to function as a simulated transit system and bus tracker,
             and was my final project for COMP 2161 at Thompson Rivers University. I'm sharing 
             it here with the permission of my course professor, Musfiq Rahman. I created this 
             application in Android Studio using java, and 
-            <a href="https://github.com/mseitzdev/Transit_Simulator"> you can click here to 
+            <a href="https://github.com/mseitzdev/Transit_Simulator"> you can 
             see the source code, documentation, and .apk file download on my GitHub.</a>
-            <br><br>
+            <br>
+
+        </p>
+
+        <br>
+        <h2 class="pagetitle"> How does this program work?</h2>
+        <br>
+
+        <p class="paragraphStandard">
             The busses are simulated by the activity of the foreground service BusService, 
             and this is where the majority of the app’s processing takes place. The 
             movement of busses is incremented on each receipt of the ACTION_TIME_TICK 
@@ -108,6 +117,12 @@ include '../res/header.php';
             and if a notification request is saved but silent mode is on then a message is written to log.
             <br><br>
         </p>
+
+        <!--
+
+                Add notes on what can be added/improved - better bus schedules, map, etc.
+
+        -->
 
         <h1>
             <a href="https://github.com/mseitzdev/Transit_Simulator"> 

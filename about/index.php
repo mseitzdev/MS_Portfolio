@@ -1,6 +1,6 @@
 <!-- 
 
-about/index.php
+/about/index.php
 
 Programmed by Mitchell Seitz, March 6 2024. 
 
@@ -29,7 +29,7 @@ include '../res/header.php';
         <h1 class="pagetitle">About Me</h1>
 
         <div style="text-align: center;">
-            <img src="me.png" alt="A pic of me" style="max-width: 90%; max-height: 500px; border-radius: 50%;">
+            <img src="me.png" alt="A pic of me" style="max-width: 90%; max-height: 600px; border-radius: 50%;">
             <h5> Picture of me, taken by <a href="https://vivian-patruno.squarespace.com/"> Vivian Patruno</a> </h5>
         </div>
         <br>
@@ -37,9 +37,9 @@ include '../res/header.php';
         <p class="paragraphStandard">
 
             My name is Mitchell Seitz, and I'm a third-year Comp Sci student at Thompson Rivers University.
-            I've been studying online for my University education, and so I guess I consider myself 
-            a self-taught developer as well. I've also run a small business as a handyman, and am a co-founder of
-            a nonprofit dedicated to supporting youth in and from the foster care system called Project Outsiders. 
+            I've been studying online for my University education, and so I suppose I'm 
+            a self-taught developer as well. I also ran a small business as a handyman, and am a co-founder of
+            Project Outsiders, a nonprofit dedicated to supporting youth in and from the foster care system. 
             My journey here has been somewhat unique, so I might as well tell you a bit about myself so you can understand 
             how I got here. 
             <br><br> 
@@ -53,15 +53,15 @@ include '../res/header.php';
             After graduating, I found myself curious, and started self-teaching things I missed in school. 
             Initially, I brought home university textbooks left by graduates in some apartment buildings I worked in.
             I was interested in a variety of things, like math, neuroscience, 
-            and human biology. Later, my curiosity took a more technical focus, and 
-            I spent free time using brilliant.org on the bus, using the wolfram problem generators, and spent my breaks at 
-            work reading some of the textbooks I found and learning math from them.
+            and biology. Later, my curiosity took a more abstract focus, and 
+            I started using brilliant.org, practicing with the wolfram problem generators, and learning 
+            from a highschool math book I got at a thrift store.
             I also learned some python, started messing around with an arduino and raspberry pi, and dabbled in languages. 
             <br><br>
-            Eventually, I felt like I had caught up on learning, and when I 
-            was 19 I decided I wanted to pursue university education. I enrolled with Athabasca 
-            University, which has open admission for online courses that transfer well to pretty much any 
-            university in Canada. The flexibility was nice, but truthfully I took this route to avoid doing pre-requisites.
+            Eventually, I felt like I had caught up on learning, and at
+            19 I decided to pursue university education. I enrolled with Athabasca 
+            University, which has open admission for online courses that transfer well to other Canadian schools.
+            The flexibility was nice, but truthfully I took this route to avoid doing pre-requisites.
             After a few courses, I realized that I was most interested in computer science and decided 
             to pursue this path. I completed twelve courses with a 3.71/4.00 GPA,
             including Data Structures & Algorithms, Calculus, Stats, 
@@ -94,10 +94,10 @@ include '../res/header.php';
         <p class="paragraphStandard">
 
             <br>
-            One of those people was Chanice McAnuff, and she took on the commitment and responsibility 
+            One of those people was Chanice McAnuff. She took on the commitment and responsibility 
             of leading the organization, and I was happy to work with her to find ways to make our 
             goals work as a co-founder. 
-            During 2020, we started meeting on zoom and over the phone to 
+            During 2020, we started meeting online to 
             form the basis for what the organization would look like. At some point, we started to meet in person, 
             setting up AV equipment and getting ready to record media to bring attention to our cause. It started 
             with a podcast, but grew to include events, media training, outreach, social media, and more.  
@@ -105,20 +105,16 @@ include '../res/header.php';
             Project Outsiders grew quickly, and after lots of hard work, networking, funding proposals, 
             and planning, we were able to begin filming "The Youth In Care Project" documentary. Between 2021 and 
             2023, production proceeded, and finally we were able to premire at the 
-            <a href="https://www.yorkcas.org/news/the-youth-in-care-project-to-premiere-at-tiff/"> 
+            <a href="https://torontoobserver.ca/2023/11/16/the-youth-in-care-project/"> 
                 Toronto International Film Festival in November 2023. 
             </a> 
-            As of right now, Project Outsiders is taking a bit of a break in order to allow team members to attend
-            other important things,  but I hope to be able to share a way to view the documentary with you soon.
             <br><br>
             Project Outsiders was and is very important to me, and I met many of my best friends during the course 
             of our activism. It was amazing to be able to work with people who had similar backgrounds to my own 
             and were still able to work hard and succeed.
-            I learned a lot from working with and getting close to the team, and I am a better and 
-            more well-rounded person because of it. While my academic journey started as a 
-            teenager trying to self-teach computer science and math, Project Outsiders is where I would 
-            say I started really developing emotional intelligence and maturity. I will be forever grateful that I 
-            was able to spend my early twenties with such good people working towards a greater cause.
+            I learned a lot, and I am a better and 
+            more well-rounded person because of it. I will be forever grateful that I 
+            was able to spend my early twenties with such amazing people.
             <br><br>
 
         </p>
@@ -131,25 +127,24 @@ include '../res/header.php';
 
         <p class="paragraphStandard">
 
-            Of course, juggling my small business, Project Outsiders, school, other jobs, and family responsibilities 
+            Of course, juggling my small business, activism, school, other jobs, and family responsibilities 
             was a lot, and at some point I had to narrow my activities and focus more on school. 
             I started this by transferring to 
-            Thompson Rivers University, and started classes in 2023. I chose TRU because the program structure allows 
+            Thompson Rivers University in 2023. I chose TRU because the program structure allows 
             me to take classes online via Open Learning, in person at TRU, or any accredited university in Canada.
             Truthfully, a big reason why I chose TRU because my younger years were quite chaotic, and I like the security 
-            of being able to continue getting educated regardless of my living situation, transportation 
-            budget, physical location, or other factors that may get in the way of traditional school. 
-            Plus, I can always take classes in person anywhere I want, which is an amazing plus.
+            of being able to continue getting educated regardless of my living situation,
+            budget, location, or other factors that may get in the way of traditional school. 
             <br><br>
-            As of Summer 2024, I stepped back a lot from activism and working as a handyman, 
-            and have been focusing on portfolio building, personal projects, preparing to do some freelance development, 
+            As of Summer 2024, I started stepping back a lot from activism and work, 
+            and have been focusing on portfolio building, personal projects, finding internships and/or freelance work, 
             and getting ready to study full-time until I am done my degree. I'll be adding more to this 
             portfolio shortly, so stay tuned!
 
         </p>
 
         <br>
-        <h1 class="pagetitle">Life still in progress! Stay tuned for more :)</h1><br>
+        <h2 class="pagetitle">Life still in progress! Stay tuned for more :)</h2><br>
 
         <!-- Social Media Links-->
         <?php include $document_root . '/res/socialLinks.php' ; ?>
@@ -159,11 +154,12 @@ include '../res/header.php';
             <a href="https://github.com/mseitzdev">My Github</a>,
             and if you'd like to connect then head over to 
             <a href="https://www.linkedin.com/in/mitchell-s-888526b0/"> My Linkedin </a>
-            or reach me via 
-            <a href="mailto:mseitz@mseitz.dev">Email</a> 
-            at 
-            <b> mseitz@mseitz.dev</b>
+            or
+            <a href="mailto:mseitz@mseitz.dev">Email me</a> 
+            at:
+            <br><br> 
         </p>
+        <b> mseitz@mseitz.dev</b>
 
     </div>
 

@@ -60,8 +60,57 @@
 
 /* This is the standard paragraph CSS for most pages */
 .paragraphStandard{
-  font-size: 19px; 
+
+  /*Font size and line spacing*/
+  font-size: 19px; /*  */
+  line-height: 1.2;
+
   text-align: left;
+
+  /* This restricts paragraph width - good for large monitors. */
+  max-width: 720px;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
+/*Formatting for boxes surrounding contents*/
+.mainbox{
+
+  /*Restrict Width */
+  max-width: 1100px;
+  margin-right: auto;
+  margin-left: auto;
+
+  /*creates rounded border edges*/
+  border-radius: 25px;
+
+  /*Background color- matches footer and header.*/
+  background-color: rgba(1,1,1,0.85);
+
+  /*Padding the edges */
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 10px;
+  padding-bottom: 30px;
+
+  /*Font size */
+  font-size: 21px; 
+}
+
+/* Formatting for page titles */
+.pagetitle{
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+/* copyright on hover */
+.copyright:hover{
+  transition: 0.25s;
+  color: lightgoldenrodyellow;
+  cursor: not-allowed;
 }
 
 /* Social Media Link Picture formatting */
@@ -148,39 +197,6 @@ main{
   color: lightgoldenrodyellow;
 }
 
-/*Formatting for boxes surrounding contents*/
-.mainbox{
-
-  /*creates rounded border edges*/
-  border-radius: 25px;
-
-  /*Background color- matches footer and header.*/
-  background-color: rgba(1,1,1,0.85);
-
-  /*Padding the edges */
-  padding-left: 5%;
-  padding-right: 5%;
-  padding-top: 10px;
-  padding-bottom: 30px;
-
-  /*Font size */
-  font-size: 21px; 
-}
-
-/* Formatting for page titles */
-.pagetitle{
-  padding-bottom: 10px;
-  padding-top: 10px;
-  margin-left: 5%;
-  margin-right: 5%;
-}
-
-/* copyright on hover */
-.copyright:hover{
-  transition: 0.25s;
-  color: lightgoldenrodyellow;
-  cursor: not-allowed;
-}
 
 /*Formatting for the footer at the bottom of the page*/
 footer{

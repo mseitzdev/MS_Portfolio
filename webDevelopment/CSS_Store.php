@@ -36,7 +36,6 @@ include '../res/header.php';
             referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
             </iframe>
         </div>
-        <h5> A video explaining this program, submitted with the project. </h5>
         <br>
         
         <p class="paragraphStandard">
@@ -44,19 +43,13 @@ include '../res/header.php';
             This website is a prototype web store, which I created as a school project 
             for COMP 3541 at Thompson Rivers University. It's a full-stack LAMP site 
             utilizing HTML, CSS, PHP, and MySQL to create a web store. With the permission 
-            of my professor, I'm sharing it here, as I used it as a 
+            of my professor, Sarah Carruthers, I'm sharing it here, as I used it as a 
             prototype to build this portfolio site and I think it's a good way to 
             show where I started.
-        </p>
-
-        <br>
-        <div style="text-align: center;">
-            <img src="sarahPermission.png" alt="Permission to share this project" style="max-width: 90%; max-height: 450px">
-            <h5> Sarah Carruthers, my prof, giving me permission to share this project.</h5>
-        </div>
-        <br>
-
-        <p class="paragraphStandard"> 
+            <a href="https://github.com/mseitzdev/CSS_Store">
+            Click here to see the source code on my GitHub.
+            </a>
+            <br><br>
             
             This website's functionality includes drawing product data 
             from a database, making it available for the user to search through 
@@ -64,6 +57,13 @@ include '../res/header.php';
             a shopping cart, order placement, and the viewing of previous orders.
             Relevant information is stored in the SQL database. 
             <br><br>
+
+        </p>
+
+        <h2 class="pagetitle"> Design & Goals</h2>
+        <br>
+
+        <p class="paragraphStandard">
 
             Keeping with directions given in the course, 
             I developed this website adhering to a interperetation of the 
@@ -121,13 +121,19 @@ include '../res/header.php';
             <a href="https://github.com/mseitzdev/CSS_Store"> check it out on my Github.</a>
             <br><br>
             <a href="mseitzDotDev.php">This Portfolio</a>
-            is built using the CSStore as it's prototype, so this is a good example of where 
+            is built using the CSStore as a prototype, so this is a good example of where 
             my design and HTML/CSS skills have developed after this project. The next step after that was building a 
             <a href="libraryProject.php">Library Website</a> 
             for a take-home coding project, and I'm going to be doing more full-stack development in the 
             future.
 
         </p>
+        <br>
+
+        <div style="text-align: center;">
+            <img src="sarahPermission.png" alt="Permission to share this project" style="max-width: 90%; max-height: 450px">
+            <h5> Sarah Carruthers, my prof, giving me permission to share this project.</h5>
+        </div>
         <br>
 
         <h1> 

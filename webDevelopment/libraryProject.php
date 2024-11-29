@@ -43,9 +43,15 @@ include '../res/header.php';
             During my internship search, I was offered a chance to do a coding project for Second Bind, and 
             put this website together. It's a full-stack website built with PHP, SQL, HTML, Javascript, and CSS,
             and It only took me a few hours to build this library from the code I 
-            wrote for this portfolio & the <a href="CSS_Store.php">CSS Store</a> project I made for school, 
-            and building it made me realize that I've gotten to a much more comfortable place with web 
+            wrote for 
+            <a href="mseitzDotDev.php">This Portfolio</a>
+            & the <a href="CSS_Store.php">CSS Store</a> 
+            project I made for school.
+            Building this made me realize that I've gotten to a much more comfortable place with web 
             development compared to where I started.
+            <a href="https://github.com/mseitzdev/Library_Project"> 
+            You can see this project on GitHub here.
+            </a>
             <br><br>
             It's a combination of the cleaned-up code and design of this portfolio 
             mixed with full-stack functionality like the CSS Store. Although I still wouldn't consider 

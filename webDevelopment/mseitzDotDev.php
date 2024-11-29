@@ -36,8 +36,13 @@ include '../res/header.php';
         <p class="paragraphStandard">
             After completing COMP 3451, I got to work cleaning up the messy code 
             from that project and turning it into something usable as my portfolio.
+            <a href="https://github.com/mseitzdev/MS_Portfolio"> 
+            You can see the current code on my GitHub by clicking here.
+            </a>
             <br><br>
-            I began by removing any unecessary PHP and SQL, before putting 
+            I began by taking the 
+            <a href="CSS_Store.php">CSS Store</a>
+            and removing any unecessary PHP and SQL, before putting 
             some time into experimenting with the CSS and removing as much unecessary 
             code as posssible. After getting things cleaned up, I got to work testing 
             across different browsers, operating systems, and devices. During this 

@@ -27,7 +27,7 @@ include '../res/header.php';
         <div style="text-align: center;">
             <img src="calculator.png" alt="Calculator" style="max-width: 90%; max-height: 500px">
         </div>
-        <br>
+        <br><br>
         
         <p class="paragraphStandard">
             This is my first android app with a realistic use case, a scientific calculator 
@@ -43,7 +43,7 @@ include '../res/header.php';
             <br><br>
         </p>
 
-        <h4>A basic overview the program:</h4>
+        <h2 class="pagetitle"> Use & Function: </h2>
         <br>
 
         <p class="paragraphStandard">
@@ -65,7 +65,7 @@ include '../res/header.php';
 
         </p>
 
-        <h4> Some things I could add to this program:</h4>
+        <h2 class="pagetitle"> What could be improved here?</h2>
         <br>
 
         <p class="paragraphStandard">
