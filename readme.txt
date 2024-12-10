@@ -24,9 +24,10 @@ _______________________________________________________________________
 
 To Do: 
 
-- Add website display settings, first add an option to disable/change 
-the background, then maybe a light mode. Use cookies/sessions + PHP. 
-
+- Add website display settings
+	- an option to disable/change the background 
+	- light mode
+	- Text Settings / Accessibility
 _______________________________________________________________________
 
 Bugs & Issues: 

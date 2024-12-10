@@ -41,9 +41,10 @@ include '../res/header.php';
         <p class="paragraphStandard">
 
             During my internship search, I was offered a chance to do a coding project for Second Bind, and 
-            put this website together. It's a full-stack website built with PHP, SQL, HTML, Javascript, and CSS,
-            and It only took me a few hours to build this library from the code I 
-            wrote for 
+            put this website together. It's a full-stack website built with PHP, SQL, HTML, Javascript, and CSS.
+            This website allows you to manage the library database by creating, sorting, and searching books in 
+            a database. You can also export these sorted lists as JSON files. 
+            It only took me a few hours to build this library from the code I wrote for 
             <a href="mseitzDotDev.php">This Portfolio</a>
             & the <a href="CSS_Store.php">CSS Store</a> 
             project I made for school.
